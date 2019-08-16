@@ -33,8 +33,6 @@
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Microbiology-Books/blob/master/README.md" style="text-decoration:none;">Microbiology Books </a></b></li>   
   
-  
-  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Programming-Books/blob/master/README.md" style="text-decoration:none;">C Programming Books </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Programming-Books/blob/master/README.md" style="text-decoration:none;">C++ Programming Books</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/README.md" style="text-decoration:none;">JAVA Programming Books</a></b></li>
@@ -90,5 +88,22 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/AWS-Books/blob/master/README.md" style="text-decoration:none;"> AWS Books</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Logic-Books/blob/master/README.md" style="text-decoration:none;"> Mathematical Logic Books</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Applied-Genetics-and-Molecular-Biology-Books/blob/master/README.md" style="text-decoration:none;">Applied Genetics and Molecular Biology Books </a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Immunology-Books/blob/master/README.md" style="text-decoration:none;">Immunology Books </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Geography-Books/blob/master/README.md" style="text-decoration:none;">Geography Books </a></b></li>   
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Paleontology-Books/blob/master/README.md" style="text-decoration:none;">Paleontology Books </a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/README.md" style="text-decoration:none;">Jewish Sacred Texts </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/README.md" style="text-decoration:none;">Amazing Jewish Books </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Genetics-Books/blob/master/README.md" style="text-decoration:none;">Genetics Books </a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Mechanics-Books/blob/master/README.md" style="text-decoration:none;">Quantum Mechanics Books </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Michio-Kaku-Books/blob/master/README.md" style="text-decoration:none;">Michio Kaku Books </a></b></li>  
+
 
  </ul>
