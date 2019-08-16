@@ -17,7 +17,21 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Quantum Chemistry Books </a></b></li>  
   
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/README.md" style="text-decoration:none;">Mathematical Physics Books </a></b></li>
   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacovigilance-Books/blob/master/README.md" style="text-decoration:none;">Pharmacovigilance Books </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Pharmacognosy-Books/blob/master/README.md" style="text-decoration:none;">Pharmacognosy Books </a></b></li>   
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physical-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Physical Chemistry Books </a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-By-Subrahmanyan-Chandrasekhar/blob/master/README.md" style="text-decoration:none;">Books By Subrahmanyan Chandrasekhar </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Earth-Sciences-Books/blob/master/README.md" style="text-decoration:none;">Earth Sciences Books </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Phytochemistry-Books/blob/master/README.md" style="text-decoration:none;">Phytochemistry Books </a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Taxonomy-Books/blob/master/README.md" style="text-decoration:none;">Taxonomy Books </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Microbiology-Books/blob/master/README.md" style="text-decoration:none;">Microbiology Books </a></b></li>   
   
   
   
