@@ -170,7 +170,17 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/README.md" style="text-decoration:none;">TOEFL | IELTS Study Materials </a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Essay-Writing/blob/master/README.md" style="text-decoration:none;">The Best Books on Essay Writing </a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/README.md" style="text-decoration:none;">Best Study Materials for CAT </a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/README.md" style="text-decoration:none;">Best Study Materials for CAT </a></b></li>   
+ 
   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/IIT-JEE-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">IIT-JEE Chemistry Books </a></b></li>  
+  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/README.md" style="text-decoration:none;">999 Books to Read in a Lifetime </a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/README.md" style="text-decoration:none;">Economics Books </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Math-Books/blob/master/README.md" style="text-decoration:none;">Math Books </a></b></li>     
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/README.md" style="text-decoration:none;">Popular Science Books </a></b></li>  
   
  </ul>
