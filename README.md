@@ -3,7 +3,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/README.md" style="text-decoration:none;">Geometry Books </a></b></li>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Material-Science-Books/blob/master/README.md" style="text-decoration:none;">Material Science Books </a></b></li> 
-  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Solid-State-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Solid State Chemistry Books </a></b></li>   
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Programming-Books/blob/master/README.md" style="text-decoration:none;">C Programming Books </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Programming-Books/blob/master/README.md" style="text-decoration:none;">C++ Programming Books</a></b></li>
