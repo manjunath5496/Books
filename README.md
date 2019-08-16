@@ -162,6 +162,15 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Geology-Books/blob/master/README.md" style="text-decoration:none;">Geology Books </a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Top-15-Most-Influential-Books-that-shaped-Our-Thinking/blob/master/README.md" style="text-decoration:none;">The Top 15 Most Influential Books that shaped Our Thinking </a></b></li>     
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/README.md" style="text-decoration:none;">Discrete Mathematics Books </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/README.md" style="text-decoration:none;">Complete IAS Study Materials </a></b></li>  
+  
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/README.md" style="text-decoration:none;">TOEFL | IELTS Study Materials </a></b></li>
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Essay-Writing/blob/master/README.md" style="text-decoration:none;">The Best Books on Essay Writing </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/README.md" style="text-decoration:none;">Best Study Materials for CAT </a></b></li>     
   
   
  </ul>
