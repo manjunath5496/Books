@@ -12,6 +12,15 @@
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Optics-Books/blob/master/README.md" style="text-decoration:none;">Optics Books </a></b></li> 
   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Warehousing-Books/blob/master/README.md" style="text-decoration:none;">Data Warehousing Books </a></b></li> 
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Quantum Chemistry Books </a></b></li>  
+  
+  
+  
+  
+  
+  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Programming-Books/blob/master/README.md" style="text-decoration:none;">C Programming Books </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/C-Plus-Plus-Programming-Books/blob/master/README.md" style="text-decoration:none;">C++ Programming Books</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Java-Programming-Books/blob/master/README.md" style="text-decoration:none;">JAVA Programming Books</a></b></li>
