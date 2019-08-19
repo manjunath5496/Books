@@ -181,6 +181,11 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Economics-Books/blob/master/README.md" style="text-decoration:none;">Economics Books </a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Math-Books/blob/master/README.md" style="text-decoration:none;">Math Books </a></b></li>     
   <li><b><a target="_blank" href="https://github.com/manjunath5496/James-Clerk-Maxwell-Books/blob/master/README.md" style="text-decoration:none;">James Clerk Maxwell Books </a></b></li>  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/README.md" style="text-decoration:none;">Popular Science Books </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/README.md" style="text-decoration:none;">Popular Science Books </a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Thermodynamics-Books/blob/master/README.md" style="text-decoration:none;">Thermodynamics Books </a></b></li>   
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Spectroscopy-Books/blob/master/README.md" style="text-decoration:none;">Spectroscopy Books </a></b></li>  
+  
+  
   
  </ul>
