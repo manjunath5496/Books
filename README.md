@@ -196,7 +196,11 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/README.md" style="text-decoration:none;">Calculus Books </a></b></li> 
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Go-Programming-Books/blob/master/README.md" style="text-decoration:none;">Go Programming Books </a></b></li> 
-  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/README.md" style="text-decoration:none;">Botany Books </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Algebra-Books/blob/master/README.md" style="text-decoration:none;">Algebra Books </a></b></li>  
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Trigonometry-Books/blob/master/README.md" style="text-decoration:none;">Trigonometry Books </a></b></li>   
+ 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Books/blob/master/README.md" style="text-decoration:none;">Data Science Books </a></b></li> 
   
  </ul>
