@@ -188,19 +188,23 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Photochemistry-Books/blob/master/README.md" style="text-decoration:none;">Photochemistry Books </a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/README.md" style="text-decoration:none;">Jewish Biographies </a></b></li> 
+
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemical-Kinetics-Books/blob/master/README.md" style="text-decoration:none;">Chemical Kinetics Books </a></b></li> 
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Philosophy-Books/blob/master/README.md" style="text-decoration:none;">Philosophy Books</a></b></li>   
     <li><b><a target="_blank" href="https://github.com/manjunath5496/SQL-Books/blob/master/README.md" style="text-decoration:none;">SQL Books </a></b></li>  
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/README.md" style="text-decoration:none;">Calculus Books </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/README.md" style="text-decoration:none;">114 Eye Opening Books About the Holocaust </a></b></li> 
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Go-Programming-Books/blob/master/README.md" style="text-decoration:none;">Go Programming Books </a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/README.md" style="text-decoration:none;">Botany Books </a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Algebra-Books/blob/master/README.md" style="text-decoration:none;">Algebra Books </a></b></li>  
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Trigonometry-Books/blob/master/README.md" style="text-decoration:none;">Trigonometry Books </a></b></li>   
- 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/README.md" style="text-decoration:none;">The Best Books on Jewish History </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Books/blob/master/README.md" style="text-decoration:none;">Data Science Books </a></b></li> 
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/README.md" style="text-decoration:none;">Agriculture Books </a></b></li>   
