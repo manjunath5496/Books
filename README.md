@@ -202,10 +202,14 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Go-Programming-Books/blob/master/README.md" style="text-decoration:none;">Go Programming Books </a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Botany-Books/blob/master/README.md" style="text-decoration:none;">Botany Books </a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Algebra-Books/blob/master/README.md" style="text-decoration:none;">Algebra Books </a></b></li>  
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/README.md" style="text-decoration:none;">Books and articles about Jewish Rites and Customs </a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Trigonometry-Books/blob/master/README.md" style="text-decoration:none;">Trigonometry Books </a></b></li>   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/README.md" style="text-decoration:none;">The Best Books on Jewish History </a></b></li> 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Books/blob/master/README.md" style="text-decoration:none;">Data Science Books </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Science-Books/blob/master/README.md" style="text-decoration:none;">Data Science Books </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/README.md" style="text-decoration:none;">Books about Zionism </a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/README.md" style="text-decoration:none;">Antisemitism Books </a></b></li> 
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Agriculture-Books/blob/master/README.md" style="text-decoration:none;">Agriculture Books </a></b></li>   
  
