@@ -224,7 +224,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/README.md" style="text-decoration:none;">450 + Nobel Lectures </a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/README.md" style="text-decoration:none;">Dictionaries</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Dictionaries/blob/master/README.md" style="text-decoration:none;">Dictionary Books</a></b></li>
 
 
   
