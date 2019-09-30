@@ -248,6 +248,8 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Encyclopedia-Books/blob/master/README.md" style="text-decoration:none;">Encyclopedia Books </a></b></li> 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Best-Investing-Books/blob/master/README.md" style="text-decoration:none;">Best Books Every Investor Should Read </a></b></li> 
+
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Nobel-Lectures/blob/master/README.md" style="text-decoration:none;">Nobel Lectures </a></b></li> 
 
