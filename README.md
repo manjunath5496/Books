@@ -16,6 +16,7 @@
             <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/README.md" style="text-decoration:none;">Mycology Books </a></b></li> 
        <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-Anatomy-Books/blob/master/README.md" style="text-decoration:none;">Human Anatomy Books </a></b></li> 
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Virology-Books/blob/master/README.md" style="text-decoration:none;">Virology Books </a></b></li>  
+          <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-laboratory-Manuals/blob/master/README.md" style="text-decoration:none;">Science laboratory Manuals </a></b></li> 
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Computational-Biology-Books/blob/master/README.md" style="text-decoration:none;">Computational Biology Books </a></b></li> 
             <li><b><a target="_blank" href="https://github.com/manjunath5496/Neurobiology-Books/blob/master/README.md" style="text-decoration:none;">Neurobiology Books </a></b></li> 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Anthropology-Books/blob/master/README.md" style="text-decoration:none;">Anthropology Books </a></b></li> 
