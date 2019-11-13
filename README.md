@@ -260,7 +260,7 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Discrete-Mathematics-Books/blob/master/README.md" style="text-decoration:none;">Discrete Mathematics Books </a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/README.md" style="text-decoration:none;">Complete IAS Study Materials </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/README.md" style="text-decoration:none;">IAS Study Materials </a></b></li>  
   
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/TOEFL-IELTS-Study-Material/blob/master/README.md" style="text-decoration:none;">TOEFL | IELTS Study Materials </a></b></li>
