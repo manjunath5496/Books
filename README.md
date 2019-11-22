@@ -11,6 +11,7 @@
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Ethology-Books/blob/master/README.md" style="text-decoration:none;">Ethology Books</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Green-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Green Chemistry Books</a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Epistemology-Books/blob/master/README.md" style="text-decoration:none;">Epistemology Books</a></b></li>
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Boolean-Algebra-Books/blob/master/README.md" style="text-decoration:none;">Boolean Algebra Books</a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Atmospheric-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Atmospheric Chemistry Books</a></b></li>
        <li><b><a target="_blank" href="https://github.com/manjunath5496/Organometallic-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Organometallic Chemistry Books</a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Stereochemistry-Books/blob/master/README.md" style="text-decoration:none;">Stereochemistry Books</a></b></li>
