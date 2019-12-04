@@ -13,6 +13,7 @@
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Thermochemistry-Books/blob/master/README.md" style="text-decoration:none;">Thermochemistry Books</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Microservices-Books/blob/master/README.md" style="text-decoration:none;">Microservices Books</a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Femtochemistry-Books/blob/master/README.md" style="text-decoration:none;">Femtochemistry Books</a></b></li>
+            <li><b><a target="_blank" href="https://github.com/manjunath5496/Integral-Calculus-Books/blob/master/README.md" style="text-decoration:none;">Integral Calculus Books</a></b></li>
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Differential-Calculus-Books/blob/master/README.md" style="text-decoration:none;">Differential Calculus Books</a></b></li>
       <li><b><a target="_blank" href="https://github.com/manjunath5496/Agrochemistry-Books/blob/master/README.md" style="text-decoration:none;">Agrochemistry Books</a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Graph-Theory-Books/blob/master/README.md" style="text-decoration:none;">Graph Theory Books</a></b></li>
