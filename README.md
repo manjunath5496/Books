@@ -69,6 +69,7 @@
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Genomics-Books/blob/master/README.md" style="text-decoration:none;">Genomics Books </a></b></li>
        <li><b><a target="_blank" href="https://github.com/manjunath5496/Modern-Physics-Books/blob/master/README.md" style="text-decoration:none;">Modern Physics Books </a></b></li>
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Histology-Books/blob/master/README.md" style="text-decoration:none;">Histology Books </a></b></li>
+       <li><b><a target="_blank" href="https://github.com/manjunath5496/Must-Read-Books-for-Financial-Professionals/blob/master/README.md" style="text-decoration:none;">Must Read Books for Financial Professionals </a></b></li>
        <li><b><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Books/blob/master/README.md" style="text-decoration:none;">Carl Sagan Books </a></b></li>
               <li><b><a target="_blank" href="https://github.com/manjunath5496/Geochemistry-Books/blob/master/README.md" style="text-decoration:none;">Geochemistry Books</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotic-Process-Automation-Books/blob/master/README.md" style="text-decoration:none;">Robotic Process Automation Books</a></b></li>
