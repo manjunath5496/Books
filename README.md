@@ -8,6 +8,7 @@
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Robotics-Books/blob/master/README.md" style="text-decoration:none;">Robotics Books </a></b></li>
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Tensor-Calculus-Books/blob/master/README.md" style="text-decoration:none;">Tensor Calculus Books</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Mammalogy-Books/blob/master/README.md" style="text-decoration:none;">Mammalogy Books </a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Awesome-Math-Books/blob/master/README.md" style="text-decoration:none;">Awesome Math Books</a></b></li> 
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Neurology-Books/blob/master/README.md" style="text-decoration:none;">Neurology Books </a></b></li> 
           <li><b><a target="_blank" href="https://github.com/manjunath5496/Math-Tricks-Books/blob/master/README.md" style="text-decoration:none;">Math Tricks Books </a></b></li> 
     <li><b><a target="_blank" href="https://github.com/manjunath5496/Cognitive-Science-Books/blob/master/README.md" style="text-decoration:none;">Cognitive Science Books </a></b></li>
