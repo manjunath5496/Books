@@ -10,6 +10,7 @@
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Protozoology-Books/blob/master/README.md" style="text-decoration:none;">Protozoology Books </a></b></li>
                <li><b><a target="_blank" href="https://github.com/manjunath5496/Georg-Cantor-Books/blob/master/README.md" style="text-decoration:none;">Georg Cantor Books</a></b></li>
               <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrochemistry-Books/blob/master/README.md" style="text-decoration:none;">Astrochemistry Books </a></b></li>
+              <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-Chromodynamics-Books/blob/master/README.md" style="text-decoration:none;">Quantum Chromodynamics Books </a></b></li>    
         <li><b><a target="_blank" href="https://github.com/manjunath5496/Tensor-Calculus-Books/blob/master/README.md" style="text-decoration:none;">Tensor Calculus Books</a></b></li>
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Biophysical-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Biophysical Chemistry Books</a></b></li>    
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Mammalogy-Books/blob/master/README.md" style="text-decoration:none;">Mammalogy Books </a></b></li>  
