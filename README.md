@@ -34,6 +34,7 @@
         <li><a target="_blank" href="https://github.com/manjunath5496/Best-Keras-Books-of-All-Time/blob/master/README.md" style="text-decoration:none;"> Best Keras Books of All Time </a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Surface-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Surface Chemistry Books </a></li> 
           <li><a target="_blank" href="https://github.com/manjunath5496/Oncology-Books/blob/master/README.md" style="text-decoration:none;">Oncology Books </a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Quantum-Computing-Books/blob/master/README.md" style="text-decoration:none;">Quantum Computing Books </a></li>         
    <li><a target="_blank" href="https://github.com/manjunath5496/Mensuration-Books/blob/master/README.md" style="text-decoration:none;">Mensuration Books</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Genetic-Programming-Books/blob/master/README.md" style="text-decoration:none;">Genetic Programming Books</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/Proteomics-Books/blob/master/README.md" style="text-decoration:none;">Proteomics Books</a></li>
