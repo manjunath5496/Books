@@ -495,6 +495,32 @@ MATLAB Books</a></li>
                <a href="https://github.com/manjunath5496/Books/blob/master/blg(5).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
  
  
+ </br>
+<h2> 12 Classic Mathematics Books for Lifelong Learners </h2>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(1).pdf" style="text-decoration:none;">Soft clay behaviour: analysis and assessment</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(2).pdf" style="text-decoration:none;">Clay Sedimentology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(3).pdf" style="text-decoration:none;">Landslides in Sensitive Clays: From Research to Implementation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(4).pdf" style="text-decoration:none;">The prediction and back analysis of excavation behaviour in Oxford Clay</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(5).pdf" style="text-decoration:none;">Calcined Clays for Sustainable Concrete</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(6).pdf" style="text-decoration:none;">Handbook of Clay Science</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(7).pdf" style="text-decoration:none;">Structural Clay Products</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(8).pdf" style="text-decoration:none;">Barrier Properties of Polymer Clay Nanocomposites</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(9).pdf" style="text-decoration:none;">Fundamentals of Polymer–Clay Nanocomposites</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(10).pdf" style="text-decoration:none;">Clays and Clay Minerals</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(11).pdf" style="text-decoration:none;">Clays, Clay Minerals and Ceramic Materials Based on Clay Minerals</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Books/blob/master/cmv(12).pdf" style="text-decoration:none;">Introduction to Zeolite Science and Practice</a></li>
  
- 
+ </ul>
+ </br>
  
