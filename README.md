@@ -496,7 +496,7 @@ MATLAB Books</a></li>
  
  
  </br>
-<h2> 12 Classic Mathematics Books for Lifelong Learners </h2>
+<p><strong> 12 Classic Mathematics Books for Lifelong Learners </strong></p><hr>
 <ul>
 
 
