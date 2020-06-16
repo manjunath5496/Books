@@ -2,7 +2,7 @@
 <li><a href="#course1">How Culture Works</a></li>
 <li><a href="#course2">Identity and Difference</a></li>
 <li><a href="#course3">Ethnic and National Identity</a></li>
-<li><a href="#course4">Gender Issues in Academics and Academia</a></li>
+<li><a href="#course4">Memory, Culture, Forgetting</a></li>
 <li><a href="#course5">Physics of Rock Climbing</a></li>
 <li><a href="#course6">The Coming Years</a></li>
 <li><a href="#course7">Information and Communication Technology in Africa</a></li>
@@ -230,5 +230,12 @@
 </tbody>
 </table>
 </br>
+<h2 id="course4">Memory, Culture, Forgetting</h2>
 
-
+<p><a href="MIT21A_104S16_Response1.pdf">Reader Response 1 (Student A) (PDF)</a></p>
+<p><a href="MIT21A_104S16_Response2A.pdf">Reader Response 2 (Student A) (PDF)</a></p>
+<p><a href="MIT21A_104S16_Response2B.pdf">Reader Response 2 (Student B) (PDF)</a></p>
+<p><a href="MIT21A_104S16_Response3.pdf">Reader Response 3 (Student A) (PDF)</a></p>
+<p><a href="MIT21A_104S16_ReserchIdeas.pdf">Potential Ideas for Your Research Paper (PDF)</a></p>
+<p><a href="MIT21A_104S16_RadiclEmpthy.pdf">"Radical Empathy and the Transferential Power of Mass Media." (PDF)</a></p>
+</br>
