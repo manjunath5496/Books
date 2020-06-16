@@ -10,7 +10,17 @@
 <li><a href="#course9">Anthropology of War and Peace</a></li>
 <li><a href="#course10">Law and Society</a></li>
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
-
+<li><a href="#course12">Race and Science</a></li>
+<li><a href="#course2">Identity and Difference</a></li>
+<li><a href="#course3">Ethnic and National Identity</a></li>
+<li><a href="#course4">Memory, Culture, Forgetting</a></li>
+<li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
+<li><a href="#course6">Food, Culture and Politics</a></li>
+<li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
+<li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
+<li><a href="#course9">Anthropology of War and Peace</a></li>
+<li><a href="#course10">Law and Society</a></li>
+<li><a href="#course11">Gender, Sexuality, and Society</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -652,3 +662,55 @@
 </tbody>
 </table>
 </br>
+<h2 id="course12">Race and Science</h2>
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Crash Course in the Category of Race as Biological Phantom and Social Reality (<a href="lecnotes_02_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Blood, Sex, and Skeletons: Colonialism, Climatic Determinism, Cranial Capacity, and the Rise of Monogenist and Polygenist Scientific Racism (<a href="lecnotes_02_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Germ Plasm: American and British Eugenics (<a href="lecnotes_02_26.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Skin Color, Bodily Form: Laws of Science and Laws of the Land in the Context of Immigration, Assimilation and Early 20th-Century American Anthropology (<a href="lecnotes_03_04.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Health and Hygiene: Latin American Lamarckism, Nazi German Darwinism (<a href="lecnotes_03_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">From Population to Genome: Race after World War Two (<a href="lecnotes_03_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Race and Medicine</td>
+</tr>
+<tr class="row">
+<td headers="col2">Alternative Histories and Futures for the Racial Economy of Science</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Land, Science, and Knowledge in Native America</td>
+</tr>
+<tr class="row">
+<td headers="col2">African-American Technoscientific Histories and Afrofuturist Projects</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Citizenship, Cyborgs, Model Minorities and Border Crossings</td>
+</tr>
+<tr class="row">
+<td headers="col2">Race in the Digital Age</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
