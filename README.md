@@ -805,3 +805,321 @@ THE BOOK</a></li>
 </tbody>
 </table>
 </br>
+<table class="vertical-navbox nowraplinks plainlist nowraplinks">
+<tbody>
+<tr>
+<th><a title="Quantum mechanics" href="https://en.wikipedia.org/wiki/Quantum_mechanics">Quantum mechanics</a></th>
+</tr>
+<tr>
+<td><span class="mwe-math-element"><img class="mwe-math-fallback-image-inline" src="0de8741a7d26ae98689c7b3339e97dfafea9fd26.png" alt="{\displaystyle i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle ={\hat {H}}|\psi (t)\rangle }" /></span>
+<div><a title="Schr&ouml;dinger equation" href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation">Schr&ouml;dinger equation</a></div>
+</td>
+</tr>
+<tr>
+<td class="hlist nowrap">
+<ul>
+<li><a title="Introduction to quantum mechanics" href="https://en.wikipedia.org/wiki/Introduction_to_quantum_mechanics">Introduction</a></li>
+<li><a title="Glossary of elementary quantum mechanics" href="https://en.wikipedia.org/wiki/Glossary_of_elementary_quantum_mechanics">Glossary</a></li>
+<li><a title="History of quantum mechanics" href="https://en.wikipedia.org/wiki/History_of_quantum_mechanics">History</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame8" class="NavFrame collapsed">
+<div class="NavHead">Background</div>
+<div class="NavContent">
+<ul>
+<li><a title="Classical mechanics" href="https://en.wikipedia.org/wiki/Classical_mechanics">Classical mechanics</a></li>
+<li><a title="Old quantum theory" href="https://en.wikipedia.org/wiki/Old_quantum_theory">Old quantum theory</a></li>
+<li><a title="Bra&ndash;ket notation" href="https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation">Bra&ndash;ket notation</a></li>
+</ul>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Hamiltonian (quantum mechanics)" href="https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)">Hamiltonian</a></li>
+<li><a title="Wave interference" href="https://en.wikipedia.org/wiki/Wave_interference">Interference</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame9" class="NavFrame collapsed">
+<div class="NavHead">Fundamentals</div>
+<div class="NavContent">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Coherence (physics)" href="https://en.wikipedia.org/wiki/Coherence_(physics)">Coherence</a></li>
+<li><a title="Quantum decoherence" href="https://en.wikipedia.org/wiki/Quantum_decoherence">Decoherence</a></li>
+<li><a title="Complementarity (physics)" href="https://en.wikipedia.org/wiki/Complementarity_(physics)">Complementarity</a></li>
+<li><a title="Energy level" href="https://en.wikipedia.org/wiki/Energy_level">Energy level</a></li>
+<li><a title="Quantum entanglement" href="https://en.wikipedia.org/wiki/Quantum_entanglement">Entanglement</a></li>
+<li><a title="Hamiltonian (quantum mechanics)" href="https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)">Hamiltonian</a></li>
+<li><a title="Uncertainty principle" href="https://en.wikipedia.org/wiki/Uncertainty_principle">Uncertainty principle</a></li>
+<li><a title="Ground state" href="https://en.wikipedia.org/wiki/Ground_state">Ground state</a></li>
+<li><a title="Wave interference" href="https://en.wikipedia.org/wiki/Wave_interference">Interference</a></li>
+<li><a title="Measurement in quantum mechanics" href="https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics">Measurement</a></li>
+<li><a title="Quantum nonlocality" href="https://en.wikipedia.org/wiki/Quantum_nonlocality">Nonlocality</a></li>
+<li><a title="Observable" href="https://en.wikipedia.org/wiki/Observable">Observable</a></li>
+<li><a title="Operator (physics)" href="https://en.wikipedia.org/wiki/Operator_(physics)">Operator</a></li>
+<li><a title="Quantum" href="https://en.wikipedia.org/wiki/Quantum">Quantum</a></li>
+<li><a title="Quantum fluctuation" href="https://en.wikipedia.org/wiki/Quantum_fluctuation">Quantum fluctuation</a></li>
+<li><a title="Quantum number" href="https://en.wikipedia.org/wiki/Quantum_number">Quantum number</a></li>
+<li><a title="Quantum noise" href="https://en.wikipedia.org/wiki/Quantum_noise">Quantum noise</a></li>
+<li><a title="Quantum realm" href="https://en.wikipedia.org/wiki/Quantum_realm">Quantum realm</a></li>
+<li><a title="Quantum state" href="https://en.wikipedia.org/wiki/Quantum_state">Quantum state</a></li>
+<li><a class="mw-redirect" title="Quantum system" href="https://en.wikipedia.org/wiki/Quantum_system">Quantum system</a></li>
+<li><a title="Quantum teleportation" href="https://en.wikipedia.org/wiki/Quantum_teleportation">Quantum teleportation</a></li>
+<li><a title="Qubit" href="https://en.wikipedia.org/wiki/Qubit">Qubit</a></li>
+<li><a title="Spin (physics)" href="https://en.wikipedia.org/wiki/Spin_(physics)">Spin</a></li>
+<li><a title="Quantum superposition" href="https://en.wikipedia.org/wiki/Quantum_superposition">Superposition</a></li>
+<li><a title="Symmetry in quantum mechanics" href="https://en.wikipedia.org/wiki/Symmetry_in_quantum_mechanics">Symmetry</a></li>
+<li><a title="Symmetry breaking" href="https://en.wikipedia.org/wiki/Symmetry_breaking">(Spontaneous) symmetry breaking</a></li>
+<li><a title="Vacuum state" href="https://en.wikipedia.org/wiki/Vacuum_state">Vacuum state</a></li>
+<li><a title="Wave propagation" href="https://en.wikipedia.org/wiki/Wave_propagation">Wave propagation</a></li>
+<li><a title="Wave function" href="https://en.wikipedia.org/wiki/Wave_function">Wave function</a>&nbsp;
+<ul>
+<li><a title="Wave function collapse" href="https://en.wikipedia.org/wiki/Wave_function_collapse">Wave function collapse</a></li>
+<li><a title="Wave&ndash;particle duality" href="https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality">Wave&ndash;particle duality</a></li>
+<li><a title="Matter wave" href="https://en.wikipedia.org/wiki/Matter_wave">Matter wave</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame10" class="NavFrame collapsed">
+<div class="NavHead">Effects</div>
+<div class="NavContent">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Zeeman effect" href="https://en.wikipedia.org/wiki/Zeeman_effect">Zeeman effect</a></li>
+<li><a title="Stark effect" href="https://en.wikipedia.org/wiki/Stark_effect">Stark effect</a></li>
+<li><a title="Aharonov&ndash;Bohm effect" href="https://en.wikipedia.org/wiki/Aharonov%E2%80%93Bohm_effect">Aharonov&ndash;Bohm effect</a></li>
+<li><a title="Landau quantization" href="https://en.wikipedia.org/wiki/Landau_quantization">Landau quantization</a></li>
+<li><a title="Quantum Hall effect" href="https://en.wikipedia.org/wiki/Quantum_Hall_effect">Quantum Hall effect</a></li>
+<li><a title="Quantum Zeno effect" href="https://en.wikipedia.org/wiki/Quantum_Zeno_effect">Quantum Zeno effect</a></li>
+<li><a title="Quantum tunnelling" href="https://en.wikipedia.org/wiki/Quantum_tunnelling">Quantum tunnelling</a></li>
+<li><a title="Photoelectric effect" href="https://en.wikipedia.org/wiki/Photoelectric_effect">Photoelectric effect</a></li>
+<li><a title="Casimir effect" href="https://en.wikipedia.org/wiki/Casimir_effect">Casimir effect</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame11" class="NavFrame collapsed">
+<div class="NavHead">Experiments</div>
+<div class="NavContent">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Afshar experiment" href="https://en.wikipedia.org/wiki/Afshar_experiment">Afshar</a></li>
+<li><a title="Bell test experiments" href="https://en.wikipedia.org/wiki/Bell_test_experiments">Bell's inequality</a></li>
+<li><a title="Davisson&ndash;Germer experiment" href="https://en.wikipedia.org/wiki/Davisson%E2%80%93Germer_experiment">Davisson&ndash;Germer</a></li>
+<li><a title="Double-slit experiment" href="https://en.wikipedia.org/wiki/Double-slit_experiment">Double-slit</a></li>
+<li><a title="Elitzur&ndash;Vaidman bomb tester" href="https://en.wikipedia.org/wiki/Elitzur%E2%80%93Vaidman_bomb_tester">Elitzur&ndash;Vaidman</a></li>
+<li><a title="Franck&ndash;Hertz experiment" href="https://en.wikipedia.org/wiki/Franck%E2%80%93Hertz_experiment">Franck&ndash;Hertz</a></li>
+<li><a title="Leggett&ndash;Garg inequality" href="https://en.wikipedia.org/wiki/Leggett%E2%80%93Garg_inequality">Leggett&ndash;Garg inequality</a></li>
+<li><a title="Mach&ndash;Zehnder interferometer" href="https://en.wikipedia.org/wiki/Mach%E2%80%93Zehnder_interferometer">Mach&ndash;Zehnder</a></li>
+<li><a title="Popper's experiment" href="https://en.wikipedia.org/wiki/Popper%27s_experiment">Popper</a></li>
+</ul>
+</div>
+<ul>
+<li><a title="Quantum eraser experiment" href="https://en.wikipedia.org/wiki/Quantum_eraser_experiment">Quantum eraser</a>&nbsp;(<a title="Delayed-choice quantum eraser" href="https://en.wikipedia.org/wiki/Delayed-choice_quantum_eraser">delayed-choice</a>)</li>
+</ul>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Schr&ouml;dinger's cat" href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">Schr&ouml;dinger's cat</a></li>
+<li><a title="Stern&ndash;Gerlach experiment" href="https://en.wikipedia.org/wiki/Stern%E2%80%93Gerlach_experiment">Stern&ndash;Gerlach</a></li>
+<li><a title="Wheeler's delayed-choice experiment" href="https://en.wikipedia.org/wiki/Wheeler%27s_delayed-choice_experiment">Wheeler's delayed-choice</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame12" class="NavFrame collapsed">
+<div class="NavHead">Formulations</div>
+<div class="NavContent">
+<ul>
+<li><a title="Mathematical formulation of quantum mechanics" href="https://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics">Overview</a></li>
+</ul>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Heisenberg picture" href="https://en.wikipedia.org/wiki/Heisenberg_picture">Heisenberg</a></li>
+<li><a title="Interaction picture" href="https://en.wikipedia.org/wiki/Interaction_picture">Interaction</a></li>
+<li><a title="Matrix mechanics" href="https://en.wikipedia.org/wiki/Matrix_mechanics">Matrix</a></li>
+<li><a title="Phase-space formulation" href="https://en.wikipedia.org/wiki/Phase-space_formulation">Phase-space</a></li>
+<li><a title="Schr&ouml;dinger picture" href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_picture">Schr&ouml;dinger</a></li>
+<li><a title="Path integral formulation" href="https://en.wikipedia.org/wiki/Path_integral_formulation">Sum-over-histories (path-integral)</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame13" class="NavFrame collapsed">
+<div class="NavHead">Equations</div>
+<div class="NavContent">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Dirac equation" href="https://en.wikipedia.org/wiki/Dirac_equation">Dirac</a></li>
+<li><a title="Hellmann&ndash;Feynman theorem" href="https://en.wikipedia.org/wiki/Hellmann%E2%80%93Feynman_theorem">Hellmann&ndash;Feynman</a></li>
+<li><a title="Klein&ndash;Gordon equation" href="https://en.wikipedia.org/wiki/Klein%E2%80%93Gordon_equation">Klein&ndash;Gordon</a></li>
+<li><a title="Lippmann&ndash;Schwinger equation" href="https://en.wikipedia.org/wiki/Lippmann%E2%80%93Schwinger_equation">Lippmann&ndash;Schwinger</a></li>
+<li><a title="Pauli equation" href="https://en.wikipedia.org/wiki/Pauli_equation">Pauli</a></li>
+<li><a title="Rydberg formula" href="https://en.wikipedia.org/wiki/Rydberg_formula">Rydberg</a></li>
+<li><a title="Schr&ouml;dinger equation" href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation">Schr&ouml;dinger</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame14" class="NavFrame collapsed">
+<div class="NavHead">Interpretations</div>
+<div class="NavContent">
+<ul>
+<li><a title="Interpretations of quantum mechanics" href="https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics">Overview</a></li>
+</ul>
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Quantum Bayesianism" href="https://en.wikipedia.org/wiki/Quantum_Bayesianism">Bayesian</a></li>
+<li><a title="Consistent histories" href="https://en.wikipedia.org/wiki/Consistent_histories">Consistent histories</a></li>
+<li><a title="Copenhagen interpretation" href="https://en.wikipedia.org/wiki/Copenhagen_interpretation">Copenhagen</a></li>
+<li><a title="De Broglie&ndash;Bohm theory" href="https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory">de Broglie&ndash;Bohm</a></li>
+<li><a title="Ensemble interpretation" href="https://en.wikipedia.org/wiki/Ensemble_interpretation">Ensemble</a></li>
+<li><a title="Hidden-variable theory" href="https://en.wikipedia.org/wiki/Hidden-variable_theory">Hidden-variable</a></li>
+<li><a title="Many-worlds interpretation" href="https://en.wikipedia.org/wiki/Many-worlds_interpretation">Many-worlds</a></li>
+<li><a title="Objective-collapse theory" href="https://en.wikipedia.org/wiki/Objective-collapse_theory">Objective collapse</a></li>
+<li><a title="Quantum logic" href="https://en.wikipedia.org/wiki/Quantum_logic">Quantum logic</a></li>
+<li><a title="Relational quantum mechanics" href="https://en.wikipedia.org/wiki/Relational_quantum_mechanics">Relational</a></li>
+<li><a title="Stochastic quantum mechanics" href="https://en.wikipedia.org/wiki/Stochastic_quantum_mechanics">Stochastic</a></li>
+<li><a title="Transactional interpretation" href="https://en.wikipedia.org/wiki/Transactional_interpretation">Transactional</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame15" class="NavFrame collapsed">
+<div class="NavHead">Advanced topics</div>
+<div class="NavContent">
+<ul>
+<li><a title="Quantum annealing" href="https://en.wikipedia.org/wiki/Quantum_annealing">Quantum annealing</a></li>
+<li><a title="Quantum chaos" href="https://en.wikipedia.org/wiki/Quantum_chaos">Quantum chaos</a></li>
+<li><a title="Quantum computing" href="https://en.wikipedia.org/wiki/Quantum_computing">Quantum computing</a></li>
+<li><a title="Density matrix" href="https://en.wikipedia.org/wiki/Density_matrix">Density matrix</a></li>
+<li><a title="Quantum field theory" href="https://en.wikipedia.org/wiki/Quantum_field_theory">Quantum field theory</a></li>
+<li><a title="Fractional quantum mechanics" href="https://en.wikipedia.org/wiki/Fractional_quantum_mechanics">Fractional quantum mechanics</a></li>
+<li><a title="Quantum gravity" href="https://en.wikipedia.org/wiki/Quantum_gravity">Quantum gravity</a></li>
+<li><a title="Quantum information science" href="https://en.wikipedia.org/wiki/Quantum_information_science">Quantum information science</a></li>
+<li><a title="Quantum machine learning" href="https://en.wikipedia.org/wiki/Quantum_machine_learning">Quantum machine learning</a></li>
+<li><a title="Perturbation theory (quantum mechanics)" href="https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics)">Perturbation theory (quantum mechanics)</a></li>
+<li><a title="Relativistic quantum mechanics" href="https://en.wikipedia.org/wiki/Relativistic_quantum_mechanics">Relativistic quantum mechanics</a></li>
+<li><a title="Scattering theory" href="https://en.wikipedia.org/wiki/Scattering_theory">Scattering theory</a></li>
+<li><a title="Spontaneous parametric down-conversion" href="https://en.wikipedia.org/wiki/Spontaneous_parametric_down-conversion">Spontaneous parametric down-conversion</a></li>
+<li><a title="Quantum statistical mechanics" href="https://en.wikipedia.org/wiki/Quantum_statistical_mechanics">Quantum statistical mechanics</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame16" class="NavFrame collapsed">
+<div class="NavHead">Scientists</div>
+<div class="NavContent">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Yakir Aharonov" href="https://en.wikipedia.org/wiki/Yakir_Aharonov">Aharonov</a></li>
+<li><a title="John Stewart Bell" href="https://en.wikipedia.org/wiki/John_Stewart_Bell">Bell</a></li>
+<li><a title="Patrick Blackett" href="https://en.wikipedia.org/wiki/Patrick_Blackett">Blackett</a></li>
+<li><a title="Felix Bloch" href="https://en.wikipedia.org/wiki/Felix_Bloch">Bloch</a></li>
+<li><a title="David Bohm" href="https://en.wikipedia.org/wiki/David_Bohm">Bohm</a></li>
+<li><a title="Niels Bohr" href="https://en.wikipedia.org/wiki/Niels_Bohr">Bohr</a></li>
+<li><a title="Max Born" href="https://en.wikipedia.org/wiki/Max_Born">Born</a></li>
+<li><a title="Satyendra Nath Bose" href="https://en.wikipedia.org/wiki/Satyendra_Nath_Bose">Bose</a></li>
+<li><a title="Louis de Broglie" href="https://en.wikipedia.org/wiki/Louis_de_Broglie">de Broglie</a></li>
+<li><a title="David John Candlin" href="https://en.wikipedia.org/wiki/David_John_Candlin">Candlin</a></li>
+<li><a title="Arthur Compton" href="https://en.wikipedia.org/wiki/Arthur_Compton">Compton</a></li>
+<li><a title="Paul Dirac" href="https://en.wikipedia.org/wiki/Paul_Dirac">Dirac</a></li>
+<li><a title="Clinton Davisson" href="https://en.wikipedia.org/wiki/Clinton_Davisson">Davisson</a></li>
+<li><a title="Peter Debye" href="https://en.wikipedia.org/wiki/Peter_Debye">Debye</a></li>
+<li><a title="Paul Ehrenfest" href="https://en.wikipedia.org/wiki/Paul_Ehrenfest">Ehrenfest</a></li>
+<li><a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Einstein</a></li>
+<li><a title="Hugh Everett III" href="https://en.wikipedia.org/wiki/Hugh_Everett_III">Everett</a></li>
+<li><a title="Vladimir Fock" href="https://en.wikipedia.org/wiki/Vladimir_Fock">Fock</a></li>
+<li><a title="Enrico Fermi" href="https://en.wikipedia.org/wiki/Enrico_Fermi">Fermi</a></li>
+<li><a title="Richard Feynman" href="https://en.wikipedia.org/wiki/Richard_Feynman">Feynman</a></li>
+<li><a title="Roy J. Glauber" href="https://en.wikipedia.org/wiki/Roy_J._Glauber">Glauber</a></li>
+<li><a title="Martin Gutzwiller" href="https://en.wikipedia.org/wiki/Martin_Gutzwiller">Gutzwiller</a></li>
+<li><a title="Werner Heisenberg" href="https://en.wikipedia.org/wiki/Werner_Heisenberg">Heisenberg</a></li>
+<li><a title="David Hilbert" href="https://en.wikipedia.org/wiki/David_Hilbert">Hilbert</a></li>
+<li><a title="Pascual Jordan" href="https://en.wikipedia.org/wiki/Pascual_Jordan">Jordan</a></li>
+<li><a title="Hans Kramers" href="https://en.wikipedia.org/wiki/Hans_Kramers">Kramers</a></li>
+<li><a title="Wolfgang Pauli" href="https://en.wikipedia.org/wiki/Wolfgang_Pauli">Pauli</a></li>
+<li><a title="Willis Lamb" href="https://en.wikipedia.org/wiki/Willis_Lamb">Lamb</a></li>
+<li><a title="Lev Landau" href="https://en.wikipedia.org/wiki/Lev_Landau">Landau</a></li>
+<li><a title="Max von Laue" href="https://en.wikipedia.org/wiki/Max_von_Laue">Laue</a></li>
+<li><a title="Henry Moseley" href="https://en.wikipedia.org/wiki/Henry_Moseley">Moseley</a></li>
+<li><a title="Robert Andrews Millikan" href="https://en.wikipedia.org/wiki/Robert_Andrews_Millikan">Millikan</a></li>
+<li><a title="Heike Kamerlingh Onnes" href="https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes">Onnes</a></li>
+<li><a title="Max Planck" href="https://en.wikipedia.org/wiki/Max_Planck">Planck</a></li>
+<li><a title="Isidor Isaac Rabi" href="https://en.wikipedia.org/wiki/Isidor_Isaac_Rabi">Rabi</a></li>
+<li><a title="C. V. Raman" href="https://en.wikipedia.org/wiki/C._V._Raman">Raman</a></li>
+<li><a title="Johannes Rydberg" href="https://en.wikipedia.org/wiki/Johannes_Rydberg">Rydberg</a></li>
+<li><a title="Erwin Schr&ouml;dinger" href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger">Schr&ouml;dinger</a></li>
+<li><a title="Arnold Sommerfeld" href="https://en.wikipedia.org/wiki/Arnold_Sommerfeld">Sommerfeld</a></li>
+<li><a title="John von Neumann" href="https://en.wikipedia.org/wiki/John_von_Neumann">von Neumann</a></li>
+<li><a title="Hermann Weyl" href="https://en.wikipedia.org/wiki/Hermann_Weyl">Weyl</a></li>
+<li><a title="Wilhelm Wien" href="https://en.wikipedia.org/wiki/Wilhelm_Wien">Wien</a></li>
+<li><a title="Eugene Wigner" href="https://en.wikipedia.org/wiki/Eugene_Wigner">Wigner</a></li>
+<li><a title="Pieter Zeeman" href="https://en.wikipedia.org/wiki/Pieter_Zeeman">Zeeman</a></li>
+<li><a title="Anton Zeilinger" href="https://en.wikipedia.org/wiki/Anton_Zeilinger">Zeilinger</a></li>
+<li><a title="Samuel Goudsmit" href="https://en.wikipedia.org/wiki/Samuel_Goudsmit">Goudsmit</a></li>
+<li><a title="George Uhlenbeck" href="https://en.wikipedia.org/wiki/George_Uhlenbeck">Uhlenbeck</a></li>
+<li><a title="Yang Chen-Ning" href="https://en.wikipedia.org/wiki/Yang_Chen-Ning">Yang</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame17" class="NavFrame collapsed">
+<div class="NavHead">Categories</div>
+<div class="NavContent">
+<div class="hlist hlist-separated">
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}">
+<div class="CategoryTreeSection">
+<ul style="list-style-type: disc;">
+<li class="CategoryTreeItem"><a title="Category:Quantum mechanics" href="https://en.wikipedia.org/wiki/Category:Quantum_mechanics">Quantum mechanics</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
