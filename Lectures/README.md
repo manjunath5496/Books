@@ -19,7 +19,7 @@
 <li><a href="#course18">The Anthropology of Sound</a></li>
 <li><a href="#course19">The Anthropology of Politics: U.S. Presidential Election Edition</a></li>
 <li><a href="#course20">The Business of Politics: A View of Latin America</a></li>
-<li><a href="#course10">Law and Society</a></li>
+<li><a href="#course21">The Anthropology of Cybercultures</a></li>
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
 
 </ul>
@@ -1050,3 +1050,83 @@
 <p><a href="MIT21A_506S14_Task4Studnt.pdf">Task 4: A elei&ccedil;&atilde;o presidencial brasileira. "Brazilian Presidential Election" 2014 (PDF)</a></p>
 <p><a href="MIT21A_506S14_Task5Studnt.pdf">Task 5: Campaign Strategy for Brazilian 2014 Presidential elections - Campos/Silva ticket (PDF)</a></p>
 </br>
+<h2 id="course21">The Anthropology of Cybercultures</h2>
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPIC</th>
+<th scope="col">RESPONSES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course introduction</td>
+<td>None</td>
+</tr>
+<tr class="alt-row">
+<td>Automata ancestries</td>
+<td>(<a href="MIT21A_850Js09_week2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Automation</td>
+<td>(<a href="MIT21A_850Js09_week3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cybernetics, cold wars and closed worlds</td>
+<td>(<a href="MIT21A_850Js09_week4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cybergeographies, cyberpolitics and postcolonial computing</td>
+<td>(<a href="MIT21A_850Js09_week5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Robots, agents and humanlike machines</td>
+<td>None</td>
+</tr>
+<tr class="row">
+<td>Bioinformatics and artificial life</td>
+<td>(<a href="MIT21A_850Js09_week7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Virtual identities and second lives</td>
+<td>(<a href="MIT21A_850Js09_week8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Cyborgs and technobodies</td>
+<td>(<a href="MIT21A_850Js09_week9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Ubiquitous, mobile and ambient computing</td>
+<td>(<a href="MIT21A_850Js09_week10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Making machines: inside the R&amp;D lab</td>
+<td>(<a href="MIT21A_850Js09_week11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Project presentations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Computing and social movements/Geeks and hactivists</td>
+<td>(<a href="MIT21A_850Js09_week13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sociomaterial re(con)figurations</td>
+<td>(<a href="MIT21A_850Js09_week14.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Student Papers</h2>
+<p>"<a href="http://on-object.com/">On-Object: a Ubiquitous Tangible User Interface.</a>"</p>
+<p>Cardoso, Daniel. "<a href="http://mit.edu/dcardoso/www/papers/poetics_of_automation.html">A Poetics of Automation: Conceptions of Human and Non-Human Agency in Design.</a>"</p>
+<p>"Connections: the double interface and constructing the cyborg body." (<a href="MIT21A_850Js09_sw01.pdf">PDF</a>)</p>
+<p>"Alternative Narratives of Nighttime and Illumination: An Exploration of Central Square in Cambridge, MA." (<a href="MIT21A_850Js09_sw02.pdf">PDF&nbsp;‑&nbsp;1.6MB</a>)</p>
+<p>"Site Visit Tools." (<a href="MIT21A_850Js09_sw03.pdf">PDF</a>)</p>
+</br>
+
+
+
+
+
