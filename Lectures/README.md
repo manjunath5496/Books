@@ -4,7 +4,7 @@
 <li><a href="#course3">Ethnic and National Identity</a></li>
 <li><a href="#course4">Memory, Culture, Forgetting</a></li>
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
-<li><a href="#course6">The Coming Years</a></li>
+<li><a href="#course6">Food, Culture and Politics</a></li>
 <li><a href="#course7">Information and Communication Technology in Africa</a></li>
 <li><a href="#course8">The Mathematics in Toys and Games</a></li>
 <li><a href="#course9">Passing: Flexibility in Race and Gender</a></li>
@@ -245,4 +245,9 @@
 <p>Laura Martini, "Deciding Who May&nbsp;Choose: The Construction of Personhood During Ethical Decisions in a Biomedical Context." (<a href="martini.pdf">PDF</a>)</p>
 <p>Ragini Shyam, "Understanding Bodies: Haitian&nbsp;<em>vodou</em>&nbsp;as a lens for understanding conceptions and healing practices of the body." (<a href="rshyam.pdf">PDF</a>)</p>
 </br>
+<h2 id="course6">Food, Culture and Politics</h2>
 
+<ul>
+<li>&nbsp;<a href="MIT21A_155F19_FinalPaper.pdf">&ldquo;Cracking Open Fortune Cookies: A Window into the American Consumer&rdquo; (PDF)</a>&nbsp;</li>
+</ul>
+</br>
