@@ -7,7 +7,7 @@
 <li><a href="#course6">Food, Culture and Politics</a></li>
 <li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
 <li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
-<li><a href="#course9">Passing: Flexibility in Race and Gender</a></li>
+<li><a href="#course9">Anthropology of War and Peace</a></li>
 <li><a href="#course10">Art of Color </a></li>
 <li><a href="#course11">Drugs and the Brain</a></li>
 
@@ -434,4 +434,85 @@
 </tbody>
 </table>
 </br>
+<h2 id="course9">Anthropology of War and Peace</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction (<a href="1_introduction.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part 1: Theoretical Perspectives</strong></td>
+</tr>
+<tr class="row">
+<td>Is War "Natural"? (<a href="2_is_war_natural.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>War and Sociobiology</td>
+</tr>
+<tr class="row">
+<td>Experiences of War and Violence I (<a href="4_primitive_war.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Experiences of War and Violence II (<a href="5_evolutn_of_war.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Civil War and Genocide in Rwanda (<a href="6_yugoslavia.pdf">PDF 1</a>) (<a href="CivilwarRwanda_lectureonwarsince1945.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Darfur</td>
+</tr>
+<tr class="row">
+<td>Reconciliation After War? (<a href="Reconciliationafterwar_S_Africa_TRC.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part II: America at War</strong></td>
+</tr>
+<tr class="row">
+<td>Vietnam I (<a href="VietnamILecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>After Vietnam (<a href="AfterVietnam_PostmodernWar.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The First Gulf War (<a href="TheFirstGulfWar_AmericanWarCulture.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Media and the First Gulf War (<a href="MediaandtheFirstGulfWar.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>September 11</td>
+</tr>
+<tr class="alt-row">
+<td>For and Against Invading Iraq I (<a href="ForandAgainstIraq_IraqBackground.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>For and Against Invading Iraq II</td>
+</tr>
+<tr class="alt-row">
+<td>Manufacturing Consent for War</td>
+</tr>
+<tr class="row">
+<td>Media and the War on Terror</td>
+</tr>
+<tr class="alt-row">
+<td>Behind Enemy Lines</td>
+</tr>
+<tr class="row">
+<td>Abu Ghraib</td>
+</tr>
+<tr class="alt-row">
+<td>Class Presentations</td>
+</tr>
+<tr class="row">
+<td>Class Presentations (cont.)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
 
