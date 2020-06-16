@@ -12,7 +12,7 @@
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
 <li><a href="#course12">Race and Science</a></li>
 <li><a href="#course13">Power: Interpersonal, Organizational and Global Dimensions</a></li>
-<li><a href="#course3">Ethnic and National Identity</a></li>
+<li><a href="#course14">Culture, Embodiment and the Senses</a></li>
 <li><a href="#course4">Memory, Culture, Forgetting</a></li>
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
 <li><a href="#course6">Food, Culture and Politics</a></li>
@@ -811,6 +811,48 @@
 <p>Power Pyramid (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="pyramid_.pdf">PDF</a>)</p>
 <p>Intentions in Definition of Power and Symbols (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="power_3.pdf">PDF</a>)</p>
 </br>
+<h2 id="course14">Culture, Embodiment and the Senses</h2>
 
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Course Introduction: Anthropology and the Senses (<a href="2005_09_13rev.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Healing the Body in Ancient Greece and China (<a href="2005_09_15rev.pdf">PDF 1</a>) (<a href="2005_09_20rev.pdf">PDF 2</a>) (<a href="2005_09_22rev.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="row">
+<td>Philosophy, Medicine, and the Senses in Early-Modern Europe (<a href="2005_09_27rev.pdf">PDF 1</a>) (<a href="2005_09_29rev.pdf">PDF 2</a>) (<a href="2005_10_04rev.pdf">PDF 3</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Uncanny Experience and Sensing the Sacred in the Modern West (<a href="2005_10_06rev.pdf">PDF 1</a>) (<a href="2005_10_13rev.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="row">
+<td>Memory, Belief, and the Politics of Mind</td>
+</tr>
+<tr class="alt-row">
+<td>Intersubjectivity, Phenomenology, Emotion, and Embodiment (<a href="2005_10_20rev.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Intersubjectivity and Ruptured Social Senses (<a href="2005_10_25rev.pdf">PDF 1</a>) (<a href="2005_10_27rev.pdf">PDF 2</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sensory Ethnographies (<a href="2005_11_01rev.pdf">PDF 1</a>) (<a href="2005_11_03rev.pdf">PDF 2</a>) (<a href="2005_11_08rev.pdf">PDF 3</a>) (<a href="2005_11_10rev.pdf">PDF 4</a>) (<a href="2005_11_15rev.pdf">PDF 5</a>) (<a href="2005_11_17rev.pdf">PDF 6</a>) (<a href="2005_11_22rev.pdf">PDF 7</a>) (<a href="2005_11_29rev.pdf">PDF 8</a>) (<a href="2005_12_01rev.pdf">PDF 9</a>) (<a href="2005_12_06rev.pdf">PDF 10</a>)</td>
+</tr>
+<tr class="row">
+<td>Mind-Body Medicine, Research and the State (<a href="2005_12_08rev.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Sample Assignment</h2>
+<p>Mid-term paper topic (<a href="midterm_pap.pdf">PDF</a>)</p>
+<h2 class="subhead">Example of Student Work</h2>
+<p>Student work appears courtesy of the author and is used with permission.</p>
+<p>Vivian Li - Humanity's investment in cultural reality, power and perception in early modern Europe and the modern west (<a href="vivianli_mid.pdf">PDF</a>)</p>
+</br>
