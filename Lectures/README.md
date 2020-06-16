@@ -5,7 +5,7 @@
 <li><a href="#course4">Memory, Culture, Forgetting</a></li>
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
 <li><a href="#course6">Food, Culture and Politics</a></li>
-<li><a href="#course7">Information and Communication Technology in Africa</a></li>
+<li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
 <li><a href="#course8">The Mathematics in Toys and Games</a></li>
 <li><a href="#course9">Passing: Flexibility in Race and Gender</a></li>
 <li><a href="#course10">Art of Color </a></li>
@@ -250,4 +250,104 @@
 <ul>
 <li>&nbsp;<a href="MIT21A_155F19_FinalPaper.pdf">&ldquo;Cracking Open Fortune Cookies: A Window into the American Consumer&rdquo; (PDF)</a>&nbsp;</li>
 </ul>
+</br>
+<h2 id="course7">Myth, Ritual, and Symbolism</h2>
+
+<table class="tablewidth50" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Introduction (<a href="introduction.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Culture, Sign and Symbol (<a href="symbolculture.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Discuss&nbsp;<em>Illness as Metaphor</em>&nbsp;(<a href="illnessmetaphor.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Metaphor and Other Tropes (<a href="metaphortropes.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">More Tropes (<a href="moretropes.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Interpreting Metaphor (<a href="intmetaphor.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Metaphorical Imperialism (<a href="imperialism.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Animals (<a href="animals.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Animals and Classification (<a href="animals.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Roosters and Interpretation (<a href="animals.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">The Human Body (<a href="humanbody.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">More Bodies (<a href="humanbody.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Classification and Cosmology (<a href="cosmology.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Ritual (<a href="ritiual.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Passage and Persuasion (<a href="persuasion.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Ritual and Power (<a href="16ritiualpower.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Magic and Ritual Curing (<a href="17magicritualcu.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Narrative and Life (<a href="18narrativelife.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Narrative and Control (<a href="18narrativelife.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Folktale and Form (<a href="18narrativelife.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Little Red Riding Hood and the Freudian Wolf (<a href="21litleredriding.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Goldilocks Meets Oedipus (<a href="22goldlkmetoedps.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Hyenas and Demon Brides (<a href="23hyenasdemonbr.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Jaguars, Vampires, and Starlets (<a href="24jgrstrltvmpire.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Movies on Myth</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Wrap up</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Assignment 3</h2>
+<p>Student Sample (<a href="bondry_of_meth_r.pdf">PDF</a>) (Courtesy of Shen Qu. Used with permission.)</p>
+</br>
+<h2 class="subhead">Assignment 5</h2>
+<p>Student Sample (<a href="homily.pdf">PDF</a>) (Courtesy of Orlando Jaquez (MIT student). Used with permission.)</p>
+</br>
+<h2 class="subhead">Assignment 7</h2>
+<p>Student Sample 1 (<a href="laworder.pdf">PDF</a>) (Courtesy of Corinne Packard (student). Used with permission.)</p>
+<p>Student Sample 2 (<a href="television.pdf">PDF</a>) (Courtesy of Orlando Jaquez (MIT student). Used with permission.)</p>
 </br>
