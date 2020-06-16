@@ -13,7 +13,7 @@
 <li><a href="#course12">Race and Science</a></li>
 <li><a href="#course13">Power: Interpersonal, Organizational and Global Dimensions</a></li>
 <li><a href="#course14">Culture, Embodiment and the Senses</a></li>
-<li><a href="#course4">Memory, Culture, Forgetting</a></li>
+<li><a href="#course15">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
 <li><a href="#course6">Food, Culture and Politics</a></li>
 <li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
@@ -855,4 +855,9 @@
 <h2 class="subhead">Example of Student Work</h2>
 <p>Student work appears courtesy of the author and is used with permission.</p>
 <p>Vivian Li - Humanity's investment in cultural reality, power and perception in early modern Europe and the modern west (<a href="vivianli_mid.pdf">PDF</a>)</p>
+</br>
+<h2 id="course15">History and Anthropology of Medicine and Biology</h2>
+
+<h2 class="subhead">Sample Paper</h2>
+<p><a href="MITSTS_330S13_BolmModePigs.pdf">Bolman, Bradley G. The Pigs That Therefore We Are: Anatomy, Biology, and Transplantation (PDF)</a></p>
 </br>
