@@ -17,7 +17,7 @@
 <li><a href="#course16">The Conquest of America</a></li>
 <li><a href="#course17">Slavery and Human Trafficking in the 21st Century</a></li>
 <li><a href="#course18">The Anthropology of Sound</a></li>
-<li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
+<li><a href="#course19">The Anthropology of Politics: U.S. Presidential Election Edition</a></li>
 <li><a href="#course9">Anthropology of War and Peace</a></li>
 <li><a href="#course10">Law and Society</a></li>
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
@@ -1035,5 +1035,9 @@
 <h3 class="subsubhead">Exemplary Student Papers</h3>
 <p>Shera, Katherine. "Siren." (<a href="shera_siren.pdf">PDF</a>)</p>
 </br>
+<h2 id="course19">The Anthropology of Politics: U.S. Presidential Election Edition</h2>
+<p><a href="MIT21A_506F16_Satire.pdf">"On Political Satire: A Humorous Attempt to Subvert the Status Quo." (PDF)</a></p>
+</br>
+
 
 
