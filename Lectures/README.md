@@ -22,7 +22,7 @@
 <li><a href="#course21">The Anthropology of Cybercultures</a></li>
 <li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
 <li><a href="#course23">Technology and Culture</a></li>
-<li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
+<li><a href="#course24">The Anthropology of Politics: Persuasion and Power</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -1190,5 +1190,12 @@
 <p><a href="MIT21A_500JS14_the_glyph.pdf">"'Glyph' &ndash; A Step Towards Isolation" (PDF)</a></p>
 <p><a href="MIT21A_500JS14_the_grid.pdf">"The Grid" (PDF)</a></p>
 </br>
+<h2 id="course24">The Anthropology of Politics: Persuasion and Power</h2>
 
-
+<p><a href="MIT21A_506S19_MidtermExample1.pdf">&ldquo;The Kula and Twitter:&nbsp;A Cross-Cultural Comparison of Two Social Networks&rdquo; (PDF)</a></p>
+<p><a href="MIT21A_506S19_MidtermExample2.pdf">&ldquo;Making Politics Personal&rdquo; (PDF)</a></p>
+<p><a href="MIT21A_506S19_MidtermExample3.pdf">&ldquo;The Base, the Message, and the Truth: Construction of Social Worlds Amongst Trump Supporters and Tea Party Members&rdquo; (PDF)</a></p>
+<p><a href="MIT21A_506S19_FinalPaperExample1.pdf">&ldquo;#MeToo as a Counterpublic&rdquo; (PDF)</a></p>
+<p><a href="MIT21A_506S19_FinalPaperExample2.pdf">&ldquo;(In)effectiveness of Donating Money to MIT&rdquo; (PDF)</a></p>
+<p><a href="MIT21A_506S19_FinalPaperExample3.pdf">&ldquo;U.S. Food Aid: Political or Not?&rdquo; (PDF)</a></p>
+</br>
