@@ -21,6 +21,8 @@
 <li><a href="#course20">The Business of Politics: A View of Latin America</a></li>
 <li><a href="#course21">The Anthropology of Cybercultures</a></li>
 <li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
+<li><a href="#course23">Technology and Culture</a></li>
+<li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -1183,3 +1185,10 @@
 </tbody>
 </table>
 </br>
+<h2 id="course23">Technology and Culture</h2>
+
+<p><a href="MIT21A_500JS14_the_glyph.pdf">"'Glyph' &ndash; A Step Towards Isolation" (PDF)</a></p>
+<p><a href="MIT21A_500JS14_the_grid.pdf">"The Grid" (PDF)</a></p>
+</br>
+
+
