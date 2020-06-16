@@ -11,7 +11,7 @@
 <li><a href="#course10">Law and Society</a></li>
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
 <li><a href="#course12">Race and Science</a></li>
-<li><a href="#course2">Identity and Difference</a></li>
+<li><a href="#course13">Power: Interpersonal, Organizational and Global Dimensions</a></li>
 <li><a href="#course3">Ethnic and National Identity</a></li>
 <li><a href="#course4">Memory, Culture, Forgetting</a></li>
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
@@ -712,5 +712,105 @@
 </tbody>
 </table>
 </br>
+
+<h2 id="course13">Power: Interpersonal, Organizational and Global Dimensions</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction, Opening Discussion (<a href="2005_09_07_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>How do we Study or do Social Science? (<a href="2005_09_12_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Continue Elaborating Definition of Power as Capacity to Produce Intended and Foreseen Effects on Others (<a href="2005_09_14_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Film Showing: "Obedience and Conformity"</td>
+</tr>
+<tr class="row">
+<td>Continue Elaboration of the Definition of Power, Begin Discussion of What Power is Not: Influence and Conformity (<a href="2005_09_21_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Film Showing: "Triumph of the Will" (2 hours)</td>
+</tr>
+<tr class="row">
+<td>Conformity and Influence, Then Introduction of Three Forms of Power: Manipulation, Persuasion and Force (<a href="2005_09_26_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Force (cont.) (<a href="2005_09_28_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Personal Power, Charisma, Leadership (<a href="2005_10_03_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Charisma, Video of Reputedly Charismatic Leaders' Speeches (<a href="2005_10_05_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Explaining Power Differentials, from Classical Theory (<a href="2005_10_12_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Classical Theories of Power, How do Differentials in Power Arise? (<a href="2005_10_17_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>How do Power Differential Arise? From Social Organization (<a href="2005_10_19_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>How do Power Differentials Arise: Lessons from Classical Social Theory (cont.), Review of Last Class: Max Weber (<a href="2005_10_24_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>How do Differentials in Power Arise? Lessons from Social Theory (cont.) (<a href="2005_10_26_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>How do Power Differentials Arise? Lessons from Social Theory, Marx (cont.) (<a href="2005_10_31_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>How is Power Institutionalized? Foucault (<a href="2005_11_02_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>How is Power Institutionalized and Exercised? (<a href="2005_11_07_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Power Institutionalized (<a href="2005_11_09_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Power Institutionalized, Concluded, Transformations in Authority in Modern World (<a href="2005_11_14_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transformations in Location and Sources of Authority, Examples of Professional Authority</td>
+</tr>
+<tr class="alt-row">
+<td>Transformations in Location and Sources of Authority (cont.) (<a href="2005_11_21_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Professional Authority and Cultural Hegemony (<a href="2005_11_28_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Professional Authority and Cultural Hegemony (cont.): Deconstruction and Postmodern / Post / Structuralism (<a href="2005_11_30_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Post-Modernism, Postmodernity and Power (cont.) (<a href="2005_12_05_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conclusion on Postmodernism / Postmodernity, Class Discussion (<a href="2005_12_12_sss.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Concluding Observations, Comments (<a href="2005_12_14_sss.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Prof. Silbey's Supplemental Materials</h2>
+<p>The Sources, Structure, and Transformation of Power (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="power_1_flipped.pdf">PDF</a>)</p>
+<p>Power Pyramid (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="pyramid_.pdf">PDF</a>)</p>
+<p>Intentions in Definition of Power and Symbols (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="power_3.pdf">PDF</a>)</p>
+</br>
+
 
 
