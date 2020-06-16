@@ -596,7 +596,7 @@ THE BOOK</a></li>
 <tr>
 <td>
 <div id="NavFrame1" class="NavFrame collapsed">
-<div class="NavHead">Branches<a id="NavToggle1" class="NavToggle" href="https://en.wikipedia.org/wiki/Motion#">[hide]</a></div>
+<div class="NavHead">Branches</div>
 <div class="NavContent plainlist">
 <div class="hlist hlist-separated">
 <ul>
@@ -617,7 +617,7 @@ THE BOOK</a></li>
 <tr>
 <td>
 <div id="NavFrame2" class="NavFrame collapsed">
-<div class="NavHead">Fundamentals<a id="NavToggle2" class="NavToggle" href="https://en.wikipedia.org/wiki/Motion#">[hide]</a></div>
+<div class="NavHead">Fundamentals</div>
 <div class="NavContent plainlist">
 <div class="hlist hlist-separated">
 <ul>
@@ -792,7 +792,9 @@ THE BOOK</a></li>
 <div class="hlist hlist-separated">
 <div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}">
 <div class="CategoryTreeSection">
-<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle CategoryTreeToggleHandlerAttached" title="expand" data-ct-title="Classical_mechanics" data-ct-state="collapsed">►</span>&nbsp;</span><a title="Category:Classical mechanics" href="https://en.wikipedia.org/wiki/Category:Classical_mechanics">Classical mechanics</a></div>
+<ul style="list-style-type: disc;">
+<li class="CategoryTreeItem"><a title="Category:Classical mechanics" href="https://en.wikipedia.org/wiki/Category:Classical_mechanics">Classical mechanics</a></li>
+</ul>
 </div>
 </div>
 </div>
