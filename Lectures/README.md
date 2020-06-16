@@ -3,7 +3,7 @@
 <li><a href="#course2">Identity and Difference</a></li>
 <li><a href="#course3">Ethnic and National Identity</a></li>
 <li><a href="#course4">Memory, Culture, Forgetting</a></li>
-<li><a href="#course5">Physics of Rock Climbing</a></li>
+<li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
 <li><a href="#course6">The Coming Years</a></li>
 <li><a href="#course7">Information and Communication Technology in Africa</a></li>
 <li><a href="#course8">The Mathematics in Toys and Games</a></li>
@@ -239,3 +239,10 @@
 <p><a href="MIT21A_104S16_ReserchIdeas.pdf">Potential Ideas for Your Research Paper (PDF)</a></p>
 <p><a href="MIT21A_104S16_RadiclEmpthy.pdf">"Radical Empathy and the Transferential Power of Mass Media." (PDF)</a></p>
 </br>
+<h2 id="course5">Seminar in Ethnography and Fieldwork</h2>
+<p>Caroline Rubin, "Writing against MIT Culture." (<a href="rubinc.pdf">PDF</a>)</p>
+<p>Patricia Martinez, "Preserving and Forgetting: How the Indigenous Mexican Minorities Translate to United States' Minority Politics, Discourse, and Education of Language." (<a href="pmaceves.pdf">PDF</a>)</p>
+<p>Laura Martini, "Deciding Who May&nbsp;Choose: The Construction of Personhood During Ethical Decisions in a Biomedical Context." (<a href="martini.pdf">PDF</a>)</p>
+<p>Ragini Shyam, "Understanding Bodies: Haitian&nbsp;<em>vodou</em>&nbsp;as a lens for understanding conceptions and healing practices of the body." (<a href="rshyam.pdf">PDF</a>)</p>
+</br>
+
