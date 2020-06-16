@@ -20,7 +20,7 @@
 <li><a href="#course19">The Anthropology of Politics: U.S. Presidential Election Edition</a></li>
 <li><a href="#course20">The Business of Politics: A View of Latin America</a></li>
 <li><a href="#course21">The Anthropology of Cybercultures</a></li>
-<li><a href="#course11">Gender, Sexuality, and Society</a></li>
+<li><a href="#course22">Medicine, Religion and Politics in Africa and the African Diaspora</a></li>
 
 </ul>
 <p>&nbsp;</p>
@@ -1126,7 +1126,60 @@
 <p>"Site Visit Tools." (<a href="MIT21A_850Js09_sw03.pdf">PDF</a>)</p>
 </br>
 
+<h2 id="course22">Medicine, Religion and Politics in Africa and the African Diaspora</h2>
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr class="alt-row">
+<th id="tbl358id0_0" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td colspan="2"><strong>Part One: The Colonial Imaginary and Disciplinary Practices</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl358id0_0">Section One: Biopolitics, the Fetish, and the Colonial Imaginary&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_2_3_05_460j.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_2_8_05_460j.pdf">PDF 2</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_2_10_5_460j.pdf">PDF 3</a>)</span><br /><br />Lecture 1: Course Overview and Introduction</td>
+</tr>
+<tr class="row">
+<td headers="tbl358id0_0">Section Two: Ecstasis and the Shock of Culture Contact&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_2_15_5_460j.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_2_17_5_460j.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl358id0_0">Section Three: Historical Ideologies of Sexuality, Race, and Madness&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_2_24_5_460j.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_3_01_5_460j.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part Two: Colonial Contexts of Medicine, Religion, and Politics</strong></td>
+</tr>
+<tr class="alt-row">
+<td headers="tbl358id0_0">Section Four: Colonial Medicine in South Africa&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_3_3_05_460j.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_3_8_05_460j.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="row">
+<td headers="tbl358id0_0">Section Five: Race, Gender, Colonial Medicine, and the Construction of Disease&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_3_10_5_460j.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_3_15_5_460j.pdf">PDF 2</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_3_17_05460j.pdf">PDF 3</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part Three: Anthropological&nbsp;<span class="nobr">(Re)</span>Constructions of "African" Religion, Healing and Embodiment</strong></td>
+</tr>
+<tr class="row">
+<td headers="tbl358id0_0">Section Six: Medical Pluralism in the Former Zaire&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_3_29_5_460j.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_3_31_5_460j.pdf">PDF 2</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_4_5_05_460j.pdf">PDF 3</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Section Seven: Culture, Morality, and the Senses in Ghana&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_4_7_05_460j.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_4_12_5_460j.pdf">PDF 2</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_4_14_5_460j.pdf">PDF 3</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Section Eight: Sensory Ethnography in Niger&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_4_21_5_460j.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part Four: Cosmopolitan Medicine, Race, Gender, and Inequalities</strong></td>
+</tr>
+<tr class="row">
+<td>Section Nine: Religion, Medicine, and the Medical Pluralism in Haiti&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_4_26_5_460j.pdf">PDF 1</a>)</span>&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_4_28_5_460j.pdf">PDF 2</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Section Ten: Contemporary Psychiatry: Race, Gender, and the Mind&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_5_5_05_460j.pdf">PDF</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Section Eleven: Fictions of Race, Gender, and Illness&nbsp;<span class="nobr">(<a href="MIT21A_460JS05_5_10_5_460j.pdf">PDF</a>)</span></td>
+</tr>
+</tbody>
+</table>
+</br>
