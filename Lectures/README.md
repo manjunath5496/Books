@@ -18,7 +18,7 @@
 <li><a href="#course17">Slavery and Human Trafficking in the 21st Century</a></li>
 <li><a href="#course18">The Anthropology of Sound</a></li>
 <li><a href="#course19">The Anthropology of Politics: U.S. Presidential Election Edition</a></li>
-<li><a href="#course9">Anthropology of War and Peace</a></li>
+<li><a href="#course20">The Business of Politics: A View of Latin America</a></li>
 <li><a href="#course10">Law and Society</a></li>
 <li><a href="#course11">Gender, Sexuality, and Society</a></li>
 
@@ -1039,5 +1039,14 @@
 <p><a href="MIT21A_506F16_Satire.pdf">"On Political Satire: A Humorous Attempt to Subvert the Status Quo." (PDF)</a></p>
 </br>
 
-
-
+<h2 id="course20">he Business of Politics: A View of Latin America</h2>
+<h2 class="subhead">Tasks</h2>
+<p><a href="MIT21A_506S14_Task1.pdf">Task 1: Written report &ndash; Knowing the rules (PDF)</a></p>
+<p><a href="MIT21A_506S14_Task2.pdf">Task 2: Written report &ndash; Political histories (PDF)</a></p>
+<p><a href="MIT21A_506S14_Task3.pdf">Task 3: Written report &ndash; Media platforms and political attitudes (PDF)</a></p>
+<p><a href="MIT21A_506S14_Task4.pdf">Task 4: Campaign strategy report and presentations (PDF)</a></p>
+<p><a href="MIT21A_506S14_Task5.pdf">Task 5: Final reports (PDF)</a></p>
+<h2 class="subhead">Student Examples</h2>
+<p><a href="MIT21A_506S14_Task4Studnt.pdf">Task 4: A elei&ccedil;&atilde;o presidencial brasileira. "Brazilian Presidential Election" 2014 (PDF)</a></p>
+<p><a href="MIT21A_506S14_Task5Studnt.pdf">Task 5: Campaign Strategy for Brazilian 2014 Presidential elections - Campos/Silva ticket (PDF)</a></p>
+</br>
