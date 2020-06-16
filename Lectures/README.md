@@ -8,7 +8,7 @@
 <li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
 <li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
 <li><a href="#course9">Anthropology of War and Peace</a></li>
-<li><a href="#course10">Art of Color </a></li>
+<li><a href="#course10">Law and Society</a></li>
 <li><a href="#course11">Drugs and the Brain</a></li>
 
 
@@ -514,5 +514,51 @@
 </tbody>
 </table>
 </br>
+<h2 id="course10">Law and Society</h2>
 
-
+<table class="tablewidth50">
+<thead>
+<tr>
+<th>LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Jurisprudential Paradigms (<a href="hojurisprudenceparadigms.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Criminal Justice System (<a href="lnf19crimjusticeoutline.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Civil Justice System (<a href="lnf26civiljusticesystemoutline.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Civil Justice System (Continued) (<a href="lnm311legalprofession.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Players in the System: Judges (<a href="lnm1719playersjudgescaselaw.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Legal Profession (<a href="lnm311legalprofession.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Alternatives to Law: Varieties of Dispute Processing&nbsp;(<a href="ln1314alternatives.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Evolutionary Theories of Social Change: Maine and Durkheim (<a href="lna9outline.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Law, Class Conflict and the Economy: Marx (<a href="lna1623kmarxo.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Law and the State: Weber (<a href="lna2830weber.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Law and Social Change (Continued) (<a href="lnm5socialc.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Law and Everyday Life, The Common Place of Law (<a href="lnm71214lawand.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
