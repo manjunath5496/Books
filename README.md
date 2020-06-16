@@ -586,9 +586,9 @@ THE BOOK</a></li>
 <th>
 <div class="hlist hlist-separated">
 <ul>
-<li style="text-align: left;"><a title="History of classical mechanics" href="https://en.wikipedia.org/wiki/History_of_classical_mechanics">History</a></li>
-<li style="text-align: left;"><a title="Timeline of classical mechanics" href="https://en.wikipedia.org/wiki/Timeline_of_classical_mechanics">Timeline</a></li>
-<li style="text-align: left;"><a title="List of textbooks on classical mechanics and quantum mechanics" href="https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_mechanics_and_quantum_mechanics">Textbooks</a></li>
+<li><a title="History of classical mechanics" href="https://en.wikipedia.org/wiki/History_of_classical_mechanics">History</a></li>
+<li><a title="Timeline of classical mechanics" href="https://en.wikipedia.org/wiki/Timeline_of_classical_mechanics">Timeline</a></li>
+<li><a title="List of textbooks on classical mechanics and quantum mechanics" href="https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_mechanics_and_quantum_mechanics">Textbooks</a></li>
 </ul>
 </div>
 </th>
