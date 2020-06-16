@@ -9,7 +9,7 @@
 <li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
 <li><a href="#course9">Anthropology of War and Peace</a></li>
 <li><a href="#course10">Law and Society</a></li>
-<li><a href="#course11">Drugs and the Brain</a></li>
+<li><a href="#course11">Gender, Sexuality, and Society</a></li>
 
 
 </ul>
@@ -558,6 +558,96 @@
 </tr>
 <tr class="alt-row">
 <td>Law and Everyday Life, The Common Place of Law (<a href="lnm71214lawand.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course11">Gender, Sexuality, and Society</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction to the Study of Gender and Sexuality: The Sex/Gender System (<a href="MIT21A_213JS06_opening.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="2"><strong>Part I: Concepts and Themes</strong></td>
+</tr>
+<tr class="row">
+<td>Is Sex to Gender as Nature is to Culture? (<a href="MIT21A_213JS06_sex_gndr.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Cultural Acquisition of Gender as Learned Behavior (<a href="MIT21A_213JS06_learning.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part II: Gender as a Social Institution</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Arranged Marriage and Inheritance in Agricultural and Pastoral Societies (<a href="MIT21A_213JS06_gndr_agra.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Science, Republicanism and The Woman Question (<a href="MIT21A_213JS06_woman.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Social Reproduction: Reproducing Formal and Informal Class Relations (<a href="MIT21A_213JS06_social.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Women in the Global Economy (No Lecture)</td>
+</tr>
+<tr class="alt-row">
+<td>Gender, Work and Professionalization (<a href="MIT21A_213JS06_gndrdlabr.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Gender and Agency (<a href="MIT21A_213JS06_agncy_resi.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Appetite, Image, Control (<a href="MIT21A_213JS06_cntrl_self.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td colspan="2"><strong>Part III: Gender and Sexuality as Identity</strong></td>
+</tr>
+<tr class="alt-row">
+<td>The Invention of Sexuality-based Identities (<a href="MIT21A_213JS06_sex_iden.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Coming Out and Leaving the Closet Behind (<a href="MIT21A_213JS06_lesbian.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Other Genders/Sexualities (<a href="MIT21A_213JS06_gndr_sexua.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Transvestite Lives and Sex Work (<a href="MIT21A_213JS06_memas.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Transgender and Transexualism in the U.S. (<a href="MIT21A_213JS06_trans.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Intersexuality (<a href="MIT21A_213JS06_intersex.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Do Western Sexual Identities Travel? (<a href="MIT21A_213JS06_other_iden.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Sexism, Racism and Violence (<a href="MIT21A_213JS06_sxl_vio.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Part IV: Reproductive Politics and Gendered Citizenship</strong></td>
+</tr>
+<tr class="row">
+<td>De-essentializing Sex/Gender/Kinship (<a href="MIT21A_213JS06_ques.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Fetal Images and Abortion Debates (<a href="MIT21A_213JS06_visual.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Nationalism, Reproductive Politics and Gender (<a href="MIT21A_213JS06_gndr_citi.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Making Modern Mothers (<a href="MIT21A_213JS06_make_mod.pdf">PDF</a>)</td>
 </tr>
 </tbody>
 </table>
