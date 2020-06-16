@@ -1017,7 +1017,7 @@
 <p><em>Outline and Bibliography</em></p>
 <ul>
 <li>Outline is min. 10 pages, written in 12 pt. Times New Roman font. You may structure your outline with bullet points and / or topical paragraphs (i.e. a rough draft).</li>
-<li>Bibliography with 10 citations on your topic; at least half from class readings or recommended reading lists. Citations should follow the&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="style_guide.pdf">American Anthropological Association Style Guide (PDF)</a>.</li>
+<li>Bibliography with 10 citations on your topic; at least half from class readings or recommended reading lists. Citations should follow the&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="https://www.americananthro.org/StayInformed/Content.aspx?ItemNumber=2044&navItemNumber=693">American Anthropological Association Style Guide (PDF)</a>.</li>
 </ul>
 <h2 class="subhead">Student Examples</h2>
 <p>The following examples are included courtesy of MIT and Wellesley students and appear anonymously unless otherwise requested.</p>
