@@ -572,3 +572,234 @@ THE BOOK</a></li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<th><a title="Classical mechanics" href="https://en.wikipedia.org/wiki/Classical_mechanics">Classical mechanics</a></th>
+</tr>
+<tr>
+<td><span class="mwe-math-element"><img class="mwe-math-fallback-image-inline" src="2c1d0f61f5c9b10e9cf7a208263f87f268ab92a1.png" alt="{\displaystyle {\textbf {F}}={\frac {d}{dt}}(m{\textbf {v}})}" /></span>
+<div><a class="mw-redirect" title="Second law of motion" href="https://en.wikipedia.org/wiki/Second_law_of_motion">Second law of motion</a></div>
+</td>
+</tr>
+<tr>
+<th>
+<div class="hlist hlist-separated">
+<ul>
+<li style="text-align: left;"><a title="History of classical mechanics" href="https://en.wikipedia.org/wiki/History_of_classical_mechanics">History</a></li>
+<li style="text-align: left;"><a title="Timeline of classical mechanics" href="https://en.wikipedia.org/wiki/Timeline_of_classical_mechanics">Timeline</a></li>
+<li style="text-align: left;"><a title="List of textbooks on classical mechanics and quantum mechanics" href="https://en.wikipedia.org/wiki/List_of_textbooks_on_classical_mechanics_and_quantum_mechanics">Textbooks</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td>
+<div id="NavFrame1" class="NavFrame collapsed">
+<div class="NavHead">Branches<a id="NavToggle1" class="NavToggle" href="https://en.wikipedia.org/wiki/Motion#">[hide]</a></div>
+<div class="NavContent plainlist">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Applied mechanics" href="https://en.wikipedia.org/wiki/Applied_mechanics">Applied</a></li>
+<li><a title="Celestial mechanics" href="https://en.wikipedia.org/wiki/Celestial_mechanics">Celestial</a></li>
+<li><a title="Continuum mechanics" href="https://en.wikipedia.org/wiki/Continuum_mechanics">Continuum</a></li>
+<li><a title="Analytical dynamics" href="https://en.wikipedia.org/wiki/Analytical_dynamics">Dynamics</a></li>
+<li><a title="Kinematics" href="https://en.wikipedia.org/wiki/Kinematics">Kinematics</a></li>
+<li><a title="Kinetics (physics)" href="https://en.wikipedia.org/wiki/Kinetics_(physics)">Kinetics</a></li>
+<li><a title="Statics" href="https://en.wikipedia.org/wiki/Statics">Statics</a></li>
+<li><a title="Statistical mechanics" href="https://en.wikipedia.org/wiki/Statistical_mechanics">Statistical</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame2" class="NavFrame collapsed">
+<div class="NavHead">Fundamentals<a id="NavToggle2" class="NavToggle" href="https://en.wikipedia.org/wiki/Motion#">[hide]</a></div>
+<div class="NavContent plainlist">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Acceleration" href="https://en.wikipedia.org/wiki/Acceleration">Acceleration</a></li>
+<li><a title="Angular momentum" href="https://en.wikipedia.org/wiki/Angular_momentum">Angular momentum</a></li>
+<li><a title="Couple (mechanics)" href="https://en.wikipedia.org/wiki/Couple_(mechanics)">Couple</a></li>
+<li><a title="D'Alembert's principle" href="https://en.wikipedia.org/wiki/D%27Alembert%27s_principle">D'Alembert's principle</a></li>
+<li><a title="Energy" href="https://en.wikipedia.org/wiki/Energy">Energy</a>&nbsp;
+<ul>
+<li><a title="Kinetic energy" href="https://en.wikipedia.org/wiki/Kinetic_energy#Newtonian_kinetic_energy">kinetic</a></li>
+<li><a title="Potential energy" href="https://en.wikipedia.org/wiki/Potential_energy">potential</a></li>
+</ul>
+</li>
+<li><a title="Force" href="https://en.wikipedia.org/wiki/Force">Force</a></li>
+<li><a title="Frame of reference" href="https://en.wikipedia.org/wiki/Frame_of_reference">Frame of reference</a></li>
+<li><a title="Inertial frame of reference" href="https://en.wikipedia.org/wiki/Inertial_frame_of_reference">Inertial frame of reference</a></li>
+<li><a title="Impulse (physics)" href="https://en.wikipedia.org/wiki/Impulse_(physics)">Impulse</a></li>
+<li><span class="nowrap"><a title="Inertia" href="https://en.wikipedia.org/wiki/Inertia">Inertia</a>&nbsp;/&nbsp;<a title="Moment of inertia" href="https://en.wikipedia.org/wiki/Moment_of_inertia">Moment of inertia</a></span></li>
+<li><a title="Mass" href="https://en.wikipedia.org/wiki/Mass">Mass</a></li>
+<li><br /><a title="Power (physics)" href="https://en.wikipedia.org/wiki/Power_(physics)">Mechanical power</a></li>
+<li><a title="Work (physics)" href="https://en.wikipedia.org/wiki/Work_(physics)">Mechanical work</a></li>
+<li><br /><a title="Moment (physics)" href="https://en.wikipedia.org/wiki/Moment_(physics)">Moment</a></li>
+<li><a title="Momentum" href="https://en.wikipedia.org/wiki/Momentum">Momentum</a></li>
+<li><a title="Space" href="https://en.wikipedia.org/wiki/Space">Space</a></li>
+<li><a title="Speed" href="https://en.wikipedia.org/wiki/Speed">Speed</a></li>
+<li><a title="Time" href="https://en.wikipedia.org/wiki/Time">Time</a></li>
+<li><a title="Torque" href="https://en.wikipedia.org/wiki/Torque">Torque</a></li>
+<li><a title="Velocity" href="https://en.wikipedia.org/wiki/Velocity">Velocity</a></li>
+<li><a title="Virtual work" href="https://en.wikipedia.org/wiki/Virtual_work">Virtual work</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame3" class="NavFrame collapsed">
+<div class="NavHead">Formulations</div>
+<div class="NavContent plainlist">
+<ul>
+<li>
+<div><strong><a title="Newton's laws of motion" href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion">Newton's laws of motion</a></strong></div>
+</li>
+<li>
+<div><strong><a title="Analytical mechanics" href="https://en.wikipedia.org/wiki/Analytical_mechanics">Analytical mechanics</a></strong>
+<div class="plainlist">
+<ul>
+<li><a title="Lagrangian mechanics" href="https://en.wikipedia.org/wiki/Lagrangian_mechanics">Lagrangian mechanics</a></li>
+<li><a title="Hamiltonian mechanics" href="https://en.wikipedia.org/wiki/Hamiltonian_mechanics">Hamiltonian mechanics</a></li>
+<li><a title="Routhian mechanics" href="https://en.wikipedia.org/wiki/Routhian_mechanics">Routhian mechanics</a></li>
+<li><a title="Hamilton&ndash;Jacobi equation" href="https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi_equation">Hamilton&ndash;Jacobi equation</a></li>
+<li><a title="Appell's equation of motion" href="https://en.wikipedia.org/wiki/Appell%27s_equation_of_motion">Appell's equation of motion</a></li>
+<li><a title="Koopman&ndash;von Neumann classical mechanics" href="https://en.wikipedia.org/wiki/Koopman%E2%80%93von_Neumann_classical_mechanics">Koopman&ndash;von Neumann mechanics</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame4" class="NavFrame collapsed">
+<div class="NavHead">Core topics</div>
+<div class="NavContent plainlist">
+<div class="hlist hlist-separated">
+<ul>
+<li><a class="mw-redirect" title="Damping" href="https://en.wikipedia.org/wiki/Damping">Damping</a>&nbsp;(<a title="Damping ratio" href="https://en.wikipedia.org/wiki/Damping_ratio">ratio</a>)</li>
+<li><a class="mw-redirect" title="Displacement (vector)" href="https://en.wikipedia.org/wiki/Displacement_(vector)">Displacement</a></li>
+<li><a title="Equations of motion" href="https://en.wikipedia.org/wiki/Equations_of_motion">Equations of motion</a></li>
+<li><a title="Euler's laws of motion" href="https://en.wikipedia.org/wiki/Euler%27s_laws_of_motion"><span class="wrap">Euler's laws of motion</span></a></li>
+<li><a title="Fictitious force" href="https://en.wikipedia.org/wiki/Fictitious_force">Fictitious force</a></li>
+<li><a title="Friction" href="https://en.wikipedia.org/wiki/Friction">Friction</a></li>
+<li><a title="Harmonic oscillator" href="https://en.wikipedia.org/wiki/Harmonic_oscillator">Harmonic oscillator</a></li>
+</ul>
+</div>
+<ul>
+<li><span class="nowrap"><a title="Inertial frame of reference" href="https://en.wikipedia.org/wiki/Inertial_frame_of_reference">Inertial</a>&nbsp;/&nbsp;<a title="Non-inertial reference frame" href="https://en.wikipedia.org/wiki/Non-inertial_reference_frame">Non-inertial reference frame</a></span></li>
+<li><a title="Mechanics of planar particle motion" href="https://en.wikipedia.org/wiki/Mechanics_of_planar_particle_motion">Mechanics of planar particle motion</a></li>
+</ul>
+<div class="hlist hlist-separated">
+<ul>
+<li><a class="mw-redirect" title="Motion (physics)" href="https://en.wikipedia.org/wiki/Motion_(physics)">Motion</a>&nbsp;(<a title="Linear motion" href="https://en.wikipedia.org/wiki/Linear_motion">linear</a>)</li>
+<li><a title="Newton's law of universal gravitation" href="https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation"><span class="wrap">Newton's law of universal gravitation</span></a></li>
+<li><a title="Newton's laws of motion" href="https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion">Newton's laws of motion</a></li>
+<li><a title="Relative velocity" href="https://en.wikipedia.org/wiki/Relative_velocity">Relative velocity</a></li>
+<li><a title="Rigid body" href="https://en.wikipedia.org/wiki/Rigid_body">Rigid body</a>&nbsp;
+<ul>
+<li><a title="Rigid body dynamics" href="https://en.wikipedia.org/wiki/Rigid_body_dynamics">dynamics</a></li>
+<li><a title="Euler's equations (rigid body dynamics)" href="https://en.wikipedia.org/wiki/Euler%27s_equations_(rigid_body_dynamics)">Euler's equations</a></li>
+</ul>
+</li>
+<li><a title="Simple harmonic motion" href="https://en.wikipedia.org/wiki/Simple_harmonic_motion">Simple harmonic motion</a></li>
+<li><a title="Vibration" href="https://en.wikipedia.org/wiki/Vibration">Vibration</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame5" class="NavFrame collapsed">
+<div class="NavHead"><a title="Rotation around a fixed axis" href="https://en.wikipedia.org/wiki/Rotation_around_a_fixed_axis">Rotation</a></div>
+<div class="NavContent plainlist">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Circular motion" href="https://en.wikipedia.org/wiki/Circular_motion">Circular motion</a></li>
+<li><a title="Rotating reference frame" href="https://en.wikipedia.org/wiki/Rotating_reference_frame">Rotating reference frame</a></li>
+<li><a title="Centripetal force" href="https://en.wikipedia.org/wiki/Centripetal_force">Centripetal force</a></li>
+<li><a title="Centrifugal force" href="https://en.wikipedia.org/wiki/Centrifugal_force">Centrifugal force</a>&nbsp;
+<ul>
+<li><a title="Reactive centrifugal force" href="https://en.wikipedia.org/wiki/Reactive_centrifugal_force">reactive</a></li>
+</ul>
+</li>
+<li><a title="Coriolis force" href="https://en.wikipedia.org/wiki/Coriolis_force">Coriolis force</a></li>
+<li><a title="Pendulum (mathematics)" href="https://en.wikipedia.org/wiki/Pendulum_(mathematics)">Pendulum</a></li>
+<li><a title="Speed" href="https://en.wikipedia.org/wiki/Speed#Tangential_speed">Tangential speed</a></li>
+<li><a title="Rotational speed" href="https://en.wikipedia.org/wiki/Rotational_speed">Rotational speed</a></li>
+</ul>
+</div>
+<ul>
+<li><a title="Angular acceleration" href="https://en.wikipedia.org/wiki/Angular_acceleration">Angular acceleration</a>&nbsp;/&nbsp;<a title="Angular displacement" href="https://en.wikipedia.org/wiki/Angular_displacement">displacement</a>&nbsp;/&nbsp;<a title="Angular frequency" href="https://en.wikipedia.org/wiki/Angular_frequency">frequency</a>&nbsp;/&nbsp;<a title="Angular velocity" href="https://en.wikipedia.org/wiki/Angular_velocity">velocity</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame6" class="NavFrame collapsed">
+<div class="NavHead">Scientists</div>
+<div class="NavContent plainlist">
+<div class="hlist hlist-separated">
+<ul>
+<li><a title="Johannes Kepler" href="https://en.wikipedia.org/wiki/Johannes_Kepler">Kepler</a></li>
+<li><a title="Galileo Galilei" href="https://en.wikipedia.org/wiki/Galileo_Galilei">Galileo</a></li>
+<li><a title="Christiaan Huygens" href="https://en.wikipedia.org/wiki/Christiaan_Huygens">Huygens</a></li>
+<li><a title="Isaac Newton" href="https://en.wikipedia.org/wiki/Isaac_Newton">Newton</a></li>
+<li><a title="Jeremiah Horrocks" href="https://en.wikipedia.org/wiki/Jeremiah_Horrocks">Horrocks</a></li>
+<li><a title="Edmond Halley" href="https://en.wikipedia.org/wiki/Edmond_Halley">Halley</a></li>
+<li><a title="Daniel Bernoulli" href="https://en.wikipedia.org/wiki/Daniel_Bernoulli">Daniel Bernoulli</a></li>
+<li><a title="Johann Bernoulli" href="https://en.wikipedia.org/wiki/Johann_Bernoulli">Johann Bernoulli</a></li>
+<li><a title="Leonhard Euler" href="https://en.wikipedia.org/wiki/Leonhard_Euler">Euler</a></li>
+<li><a title="Jean le Rond d'Alembert" href="https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert">d'Alembert</a></li>
+<li><a title="Alexis Clairaut" href="https://en.wikipedia.org/wiki/Alexis_Clairaut">Clairaut</a></li>
+<li><a title="Joseph-Louis Lagrange" href="https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange">Lagrange</a></li>
+<li><a title="Pierre-Simon Laplace" href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace">Laplace</a></li>
+<li><a title="William Rowan Hamilton" href="https://en.wikipedia.org/wiki/William_Rowan_Hamilton">Hamilton</a></li>
+<li><a title="Sim&eacute;on Denis Poisson" href="https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson">Poisson</a></li>
+<li><a title="Augustin-Louis Cauchy" href="https://en.wikipedia.org/wiki/Augustin-Louis_Cauchy">Cauchy</a></li>
+<li><a title="Edward Routh" href="https://en.wikipedia.org/wiki/Edward_Routh">Routh</a></li>
+<li><a title="Joseph Liouville" href="https://en.wikipedia.org/wiki/Joseph_Liouville">Liouville</a></li>
+<li><a title="Paul &Eacute;mile Appell" href="https://en.wikipedia.org/wiki/Paul_%C3%89mile_Appell">Appell</a></li>
+<li><a title="Josiah Willard Gibbs" href="https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs">Gibbs</a></li>
+<li><a title="Bernard Koopman" href="https://en.wikipedia.org/wiki/Bernard_Koopman">Koopman</a></li>
+<li><a title="John von Neumann" href="https://en.wikipedia.org/wiki/John_von_Neumann">von Neumann</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame7" class="NavFrame collapsed">
+<div class="NavHead">Categories</div>
+<div class="NavContent plainlist">
+<div class="hlist hlist-separated">
+<div class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}">
+<div class="CategoryTreeSection">
+<div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle CategoryTreeToggleHandlerAttached" title="expand" data-ct-title="Classical_mechanics" data-ct-state="collapsed">►</span>&nbsp;</span><a title="Category:Classical mechanics" href="https://en.wikipedia.org/wiki/Category:Classical_mechanics">Classical mechanics</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
