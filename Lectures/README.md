@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Chemistry of Sports</a></li>
+<li><a href="#course1">How Culture Works</a></li>
 <li><a href="#course2">Science Writing and New Media</a></li>
 <li><a href="#course3">Composing Your Life: Exploration of Self through Visual Arts and Writing</a></li>
 <li><a href="#course4">Gender Issues in Academics and Academia</a></li>
@@ -14,4 +14,6 @@
 
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Chemistry of Sports</h2>
+<h2 id="course1">How Culture Works</h2>
+<p><a href="MIT21A_01F19_FinalPaper1_Ex1.pdf">"How Does Culture Work?" (PDF)</a></p>
+</br>
