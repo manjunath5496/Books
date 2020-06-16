@@ -15,7 +15,7 @@
 <li><a href="#course14">Culture, Embodiment and the Senses</a></li>
 <li><a href="#course15">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course16">The Conquest of America</a></li>
-<li><a href="#course6">Food, Culture and Politics</a></li>
+<li><a href="#course17">Slavery and Human Trafficking in the 21st Century</a></li>
 <li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
 <li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
 <li><a href="#course9">Anthropology of War and Peace</a></li>
@@ -951,3 +951,87 @@
 </tbody>
 </table>
 </br>
+<h2 id="course17">Slavery and Human Trafficking in the 21st Century</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">WEEK&nbsp;#</th>
+<th scope="col">RESPONSE&nbsp;MEMO&nbsp;TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>1</td>
+<td><a href="MIT21A_445JS15_Week1memo.pdf">Week 1 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>2</td>
+<td><a href="MIT21A_445JS15_Week2memo.pdf">Week 2 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>3</td>
+<td><a href="MIT21A_445JS15_Week3memo.pdf">Week 3 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>4</td>
+<td><a href="MIT21A_445JS15_Week4memo.pdf">Week 4 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>5</td>
+<td><a href="MIT21A_445JS15_Week5memo.pdf">Week 5 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>6</td>
+<td><a href="MIT21A_445JS15_Week6memo.pdf">Week 6 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>7</td>
+<td><a href="MIT21A_445JS15_Week7memo.pdf">Week 7 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>8</td>
+<td><a href="MIT21A_445JS15_Week8memo.pdf">Week 8 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>10</td>
+<td><a href="MIT21A_445JS15_Week10memo.pdf">Week 10 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>11</td>
+<td><a href="MIT21A_445JS15_Week11memo.pdf">Week 11 (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>12</td>
+<td><a href="MIT21A_445JS15_Week12memo.pdf">Week 12 (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>13</td>
+<td><a href="MIT21A_445JS15_Week13memo.pdf">Week 13 (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 class="subhead">Term Paper</h2>
+<p>For the term paper, students are allowed to pick their own topic. Topics may come from a class discussion that you research in depth. You are given the option of being "prescriptive" (identifying a problem and offering solutions), or "descriptive" (describing an issue using class and outside textual research).</p>
+<p><em>Outline and Bibliography</em></p>
+<ul>
+<li>Outline is min. 10 pages, written in 12 pt. Times New Roman font. You may structure your outline with bullet points and / or topical paragraphs (i.e. a rough draft).</li>
+<li>Bibliography with 10 citations on your topic; at least half from class readings or recommended reading lists. Citations should follow the&nbsp;<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="style_guide.pdf">American Anthropological Association Style Guide (PDF)</a>.</li>
+</ul>
+<h2 class="subhead">Student Examples</h2>
+<p>The following examples are included courtesy of MIT and Wellesley students and appear anonymously unless otherwise requested.</p>
+<p><em>Weekly Response Memos</em></p>
+<p><a href="MIT21A_445JS15_Memo4a.pdf">Weekly Memo 4 (PDF)</a></p>
+<p><a href="MIT21A_445JS15_Memo12a.pdf">Weekly Memo 12 (PDF)</a></p>
+<p><em>Term Papers</em></p>
+<p><a href="MIT21A_445JS15_Sexting.pdf">"Sexting, Abolitionism, and Technophobia." (PDF)</a></p>
+<p><a href="MIT21A_445JS15_Religious.pdf">"Religious Education in Pakistan's Madrassas &amp; the Facilitation of Child Trafficking: A Flaw in Western Perceptions." (PDF)</a>&nbsp;(Courtesy of Zehra Naviwala.)</p>
+<p><a href="MIT21A_445JS15_Transgender.pdf">"Transgender Women of Color and 'the System': A Critical Exploration of the Relationship between TWOC and the Systems of Policing &amp; Criminal Justice in the United States." (PDF)</a></p>
+</br>
+
+
+
+
+
+
