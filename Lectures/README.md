@@ -16,7 +16,7 @@
 <li><a href="#course15">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course16">The Conquest of America</a></li>
 <li><a href="#course17">Slavery and Human Trafficking in the 21st Century</a></li>
-<li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
+<li><a href="#course18">The Anthropology of Sound</a></li>
 <li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
 <li><a href="#course9">Anthropology of War and Peace</a></li>
 <li><a href="#course10">Law and Society</a></li>
@@ -1030,8 +1030,11 @@
 <p><a href="MIT21A_445JS15_Transgender.pdf">"Transgender Women of Color and 'the System': A Critical Exploration of the Relationship between TWOC and the Systems of Policing &amp; Criminal Justice in the United States." (PDF)</a></p>
 </br>
 
-
-
-
+<h2 id="course18">The Anthropology of Sound</h2>
+<h2 class="subhead">Sound Word</h2>
+<p>For this paper, choose a word describing a particular kind of sound &mdash; e.g., ring, ping, zoom, whoosh, clang, buzz, bang, sigh, hush &mdash; and try to reconstruct a possible history of the word. You might begin by looking to the Oxford English Dictionary for the word's etymology and for early usages. If the word has a scientific or technical meaning &mdash; as does, for example, reverberation &mdash; include and discuss in your history how that meaning arose and has or has not been modulated by popular meanings. Answer these questions along the way: how would you situate your word in an acoustemology? How and in what sorts of soundscapes does it figure? What is the relationship of your sound word to the category of noise? You must engage with class readings to aid your analysis. Provide a bibliography, formatted in the way you see sources cited here in the syllabus.</p>
+<h3 class="subsubhead">Exemplary Student Papers</h3>
+<p>Shera, Katherine. "Siren." (<a href="shera_siren.pdf">PDF</a>)</p>
+</br>
 
 
