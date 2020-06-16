@@ -14,7 +14,7 @@
 <li><a href="#course13">Power: Interpersonal, Organizational and Global Dimensions</a></li>
 <li><a href="#course14">Culture, Embodiment and the Senses</a></li>
 <li><a href="#course15">History and Anthropology of Medicine and Biology</a></li>
-<li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
+<li><a href="#course16">The Conquest of America</a></li>
 <li><a href="#course6">Food, Culture and Politics</a></li>
 <li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
 <li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
@@ -860,4 +860,94 @@
 
 <h2 class="subhead">Sample Paper</h2>
 <p><a href="MITSTS_330S13_BolmModePigs.pdf">Bolman, Bradley G. The Pigs That Therefore We Are: Anatomy, Biology, and Transplantation (PDF)</a></p>
+</br>
+<h2 id="course16">The Conquest of America</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Greeting and Introduction (<a href="lec1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Spanish Conquest (<a href="lec2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Las Casas and The Great Debate (<a href="lec3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Indian Exploitation in The Spanish Empire Colonial Chronicles and Ethnography (<a href="lec4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Colombian Exchange (<a href="lec5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Spanish Missionization of the Americas (<a href="lec6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Film Showing (Excerpts) and Discussion:&nbsp;<em>The Mission</em><br />Remarks on Writing Papers</td>
+</tr>
+<tr class="alt-row">
+<td>Resistance and Rebellion in Colonial Latin America (<a href="lec8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Film Showing:&nbsp;<em>Black Robe</em></td>
+</tr>
+<tr class="alt-row">
+<td>Exploration and Colonization of North America, The Fur Trade, New France (<a href="lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Discuss The Jesuit Relations (<a href="lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Film Showing and Discussion:&nbsp;<em>Black Robe</em>&nbsp;(<a href="lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Film Showing:&nbsp;<em>Wilderness</em></td>
+</tr>
+<tr class="alt-row">
+<td>Discuss William Cronon's&nbsp;<em>Changes in The Land</em>, Taylor chaps. 8 and 9 (<a href="lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>War and Captivity in Colonial New England (<a href="lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>18th and 19th Century Frontiers, Indians and the New Republic<br /><br />Evening Film Showing:&nbsp;<em>Civilization</em></td>
+</tr>
+<tr class="row">
+<td>Independence and Change in 19th Century Latin America Frontiers in North and Latin America (<a href="lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Film Showing and Discussion:&nbsp;<em>Spirit Of Kuna Yala,</em>&nbsp;<em>Just us Kuna</em>,&nbsp;<em>Before Columbus</em></td>
+</tr>
+<tr class="row">
+<td>Historical Research (<a href="lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Discuss Kuna Materials (<a href="lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Indian Activism and Organizing</td>
+</tr>
+<tr class="alt-row">
+<td>Film Showing and Discussion:&nbsp;<em>Out of the Forest</em></td>
+</tr>
+<tr class="row">
+<td>Discuss Kayapo Case (<a href="21a4412.PDF">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Brazilian Films:&nbsp;<em>Video in The Villages<br /></em>Discuss Kayapo</td>
+</tr>
+<tr class="row">
+<td>Indigenous Peoples: Images and Ideology (<a href="21a4411.PDF">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Last Films<br />Wrap-up, Prepare for Exam</td>
+</tr>
+</tbody>
+</table>
 </br>
