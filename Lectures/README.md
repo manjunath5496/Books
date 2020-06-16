@@ -6,7 +6,7 @@
 <li><a href="#course5">Seminar in Ethnography and Fieldwork</a></li>
 <li><a href="#course6">Food, Culture and Politics</a></li>
 <li><a href="#course7">Myth, Ritual, and Symbolism</a></li>
-<li><a href="#course8">The Mathematics in Toys and Games</a></li>
+<li><a href="#course8">Disease and Health: Culture, Society, and Ethics</a></li>
 <li><a href="#course9">Passing: Flexibility in Race and Gender</a></li>
 <li><a href="#course10">Art of Color </a></li>
 <li><a href="#course11">Drugs and the Brain</a></li>
@@ -351,3 +351,87 @@
 <p>Student Sample 1 (<a href="laworder.pdf">PDF</a>) (Courtesy of Corinne Packard (student). Used with permission.)</p>
 <p>Student Sample 2 (<a href="television.pdf">PDF</a>) (Courtesy of Orlando Jaquez (MIT student). Used with permission.)</p>
 </br>
+<h2 id="course8">Disease and Health: Culture, Society, and Ethics</h2>
+
+
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_01.pdf">Introduction to the Course (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT21A_215S12_lecture_02.pdf">Introduction to Basic Issues (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_03.pdf">"Irrational" Beliefs in Disease Causation and Treatment (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>"Irrational" Beliefs, Continued</td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_05.pdf">Symbolic Healing and Harming (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT21A_215S12_lecture_06.pdf">The Cultural Construction of Disease (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_07.pdf">Theoretical Frames (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT21A_215S12_lecture_08.pdf">Meaning, Medicine, and Illness (PDF)</a></td>
+</tr>
+<tr class="row">
+<td>The Institution(s) of Medicine I</td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT21A_215S12_lecture_10.pdf">The Institution(s) of Medicine II (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_11.pdf">The Institution(s) of Medicine III (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Institution(s) of Medicine IV</td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_13.pdf">The Institution(s) of Medicine V (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>The Institution(s) of Medicine VI</td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_15.pdf">The Institution(s) of Medicine VII (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td>Health, Disease and Healing in the Larger Social Context I</td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_17.pdf">Health, Disease and Healing in the Larger Social Context II (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT21A_215S12_lecture_18.pdf">Health, Disease and Healing in the Larger Social Context III (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_19.pdf">Health, Disease and Healing in the Larger Social Context IV (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT21A_215S12_lecture_20.pdf">Health, Disease and Healing in the Larger Social Context V (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_21.pdf">Stigma, Responsibility, and Blame (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="MIT21A_215S12_lecture_22.pdf">The Challenge of Chronic Illness (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="MIT21A_215S12_lecture_23.pdf">New Reproductive Technologies (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
