@@ -25,7 +25,10 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Kotlin-Books/blob/master/README.md" style="text-decoration:none;">Kotlin Books</a></li>              
    <li><a target="_blank" href="https://github.com/manjunath5496/Metaphysics-Books/blob/master/README.md" style="text-decoration:none;">Metaphysics Books</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/MATLAB-Books/blob/master/README.md" style="text-decoration:none;">
-MATLAB Books</a></li>   
+MATLAB Books</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Salim-Ali-Books/blob/master/README.md" style="text-decoration:none;">Salim Ali Books</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/24-Sci-Fi-Novels/blob/master/README.md" style="text-decoration:none;">
+24 Sci-Fi Novels</a></li>  
     <li><a target="_blank" href="https://github.com/manjunath5496/GitHub-Books/blob/master/README.md" style="text-decoration:none;">GitHub Books</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/XQuery-Books/blob/master/README.md" style="text-decoration:none;">XQuery Books</a></li>  
               <li><a target="_blank" href="https://github.com/manjunath5496/Astrochemistry-Books/blob/master/README.md" style="text-decoration:none;">Astrochemistry Books </a></li>
