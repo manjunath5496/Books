@@ -4,6 +4,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Material-Science-Books/blob/master/README.md" style="text-decoration:none;">Material Science Books </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Geophysics-Books/blob/master/README.md" style="text-decoration:none;">Geophysics Books </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Solid-State-Chemistry-Books/blob/master/README.md" style="text-decoration:none;">Solid State Chemistry Books </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/README.md" style="text-decoration:none;">Seismology Books</a></li> 
   <li><a target="_blank" href="https://github.com/manjunath5496/Biolinguistics-Books/blob/master/README.md" style="text-decoration:none;">Biolinguistics Books </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Electronics-Books/blob/master/README.md" style="text-decoration:none;">Electronics Books </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Robotics-Books/blob/master/README.md" style="text-decoration:none;">Robotics Books </a></li>
