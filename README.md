@@ -1130,3 +1130,293 @@ THE BOOK</a></li>
 </tbody>
 </table>
 </br>
+<h2><span id="Historical_cosmologies" class="mw-headline">Historical cosmologies</span></h2>
+<table class="wikitable">
+<tbody>
+<tr>
+<th>Name</th>
+<th>Author and date</th>
+<th>Classification</th>
+<th>Remarks</th>
+</tr>
+<tr>
+<td><a title="Hindu cosmology" href="https://en.wikipedia.org/wiki/Hindu_cosmology">Hindu cosmology</a></td>
+<td><a title="Rigveda" href="https://en.wikipedia.org/wiki/Rigveda">Rigveda</a>&nbsp;(c. 1700&ndash;1100 BC)</td>
+<td>Cyclical or oscillating, Infinite in time</td>
+<td><a title="Prakṛti" href="https://en.wikipedia.org/wiki/Prak%E1%B9%9Bti">Primal matter</a>&nbsp;remains manifest for 311.04 trillion years and&nbsp;<a class="mw-redirect" title="Mahapralaya" href="https://en.wikipedia.org/wiki/Mahapralaya">unmanifest</a>&nbsp;for an equal length. The universe remains manifest for&nbsp;<a title="Kalpa (aeon)" href="https://en.wikipedia.org/wiki/Kalpa_(aeon)">4.32 billion years</a>&nbsp;and&nbsp;<a title="Pralaya" href="https://en.wikipedia.org/wiki/Pralaya">unmanifest</a>&nbsp;for an equal length. Innumerable universes exist simultaneously. These cycles have and will last forever, driven by desires.</td>
+</tr>
+<tr>
+<td><a title="Jain cosmology" href="https://en.wikipedia.org/wiki/Jain_cosmology">Jain cosmology</a></td>
+<td><a class="mw-redirect" title="Jain Agamas (Śvētāmbara)" href="https://en.wikipedia.org/wiki/Jain_Agamas_(%C5%9Av%C4%93t%C4%81mbara)">Jain Agamas</a>&nbsp;(written around 500 AD as per the teachings of&nbsp;<a title="Mahavira" href="https://en.wikipedia.org/wiki/Mahavira">Mahavira</a>&nbsp;599&ndash;527 BC)</td>
+<td>Cyclical or oscillating, eternal and finite</td>
+<td>Jain cosmology considers the&nbsp;<em><a title="Loka" href="https://en.wikipedia.org/wiki/Loka">loka</a></em>, or universe, as an uncreated entity, existing since infinity, the shape of the universe as similar to a man standing with legs apart and arm resting on his waist. This Universe, according to&nbsp;<a title="Jainism" href="https://en.wikipedia.org/wiki/Jainism">Jainism</a>, is broad at the top, narrow at the middle and once again becomes broad at the bottom.</td>
+</tr>
+<tr>
+<td><a title="Babylonian astronomy" href="https://en.wikipedia.org/wiki/Babylonian_astronomy#Cosmology">Babylonian cosmology</a></td>
+<td><a class="mw-redirect" title="Assyro-Babylonian literature" href="https://en.wikipedia.org/wiki/Assyro-Babylonian_literature">Babylonian literature</a>&nbsp;(c. 3000 BC)</td>
+<td>Flat earth floating in infinite "waters of chaos"</td>
+<td>The Earth and the&nbsp;<a title="Heaven" href="https://en.wikipedia.org/wiki/Heaven">Heavens</a>&nbsp;form a unit within infinite "waters of chaos"; the earth is flat and circular, and a solid dome (the "firmament") keeps out the outer "chaos"-ocean.</td>
+</tr>
+<tr>
+<td><a title="Eleatics" href="https://en.wikipedia.org/wiki/Eleatics">Eleatic cosmology</a></td>
+<td><a title="Parmenides" href="https://en.wikipedia.org/wiki/Parmenides">Parmenides</a>&nbsp;(c. 515 BC)</td>
+<td>Finite and spherical in extent</td>
+<td>The Universe is unchanging, uniform, perfect, necessary, timeless, and neither generated nor perishable. Void is impossible. Plurality and change are products of epistemic ignorance derived from sense experience. Temporal and spatial limits are arbitrary and relative to the Parmenidean whole.</td>
+</tr>
+<tr>
+<td><a title="Biblical cosmology" href="https://en.wikipedia.org/wiki/Biblical_cosmology">Biblical cosmology</a></td>
+<td><a title="Genesis creation narrative" href="https://en.wikipedia.org/wiki/Genesis_creation_narrative">Genesis creation narrative</a></td>
+<td>Earth floating in infinite "waters of chaos"</td>
+<td>The Earth and the&nbsp;<a title="Heaven" href="https://en.wikipedia.org/wiki/Heaven">Heavens</a>&nbsp;form a unit within infinite "waters of chaos"; the "<a title="Firmament" href="https://en.wikipedia.org/wiki/Firmament">firmament</a>" keeps out the outer "chaos"-ocean.</td>
+</tr>
+<tr>
+<td><a title="Atomism" href="https://en.wikipedia.org/wiki/Atomism">Atomist universe</a></td>
+<td><a title="Anaxagoras" href="https://en.wikipedia.org/wiki/Anaxagoras">Anaxagoras</a>&nbsp;(500&ndash;428&nbsp;BC) &amp; later&nbsp;<a title="Epicurus" href="https://en.wikipedia.org/wiki/Epicurus">Epicurus</a></td>
+<td>Infinite in extent</td>
+<td>The universe contains only two things: an infinite number of tiny seeds (<a title="Atom" href="https://en.wikipedia.org/wiki/Atom">atoms</a>) and the void of infinite extent. All atoms are made of the same substance, but differ in size and shape. Objects are formed from atom aggregations and decay back into atoms. Incorporates&nbsp;<a title="Leucippus" href="https://en.wikipedia.org/wiki/Leucippus">Leucippus</a>' principle of&nbsp;<a title="Causality" href="https://en.wikipedia.org/wiki/Causality">causality</a>: "nothing happens at random; everything happens out of reason and necessity". The universe was not ruled by&nbsp;<a class="mw-redirect" title="Gods" href="https://en.wikipedia.org/wiki/Gods">gods</a>.</td>
+</tr>
+<tr>
+<td><a title="Pythagorean astronomical system" href="https://en.wikipedia.org/wiki/Pythagorean_astronomical_system">Pythagorean universe</a></td>
+<td><a title="Philolaus" href="https://en.wikipedia.org/wiki/Philolaus">Philolaus</a>&nbsp;(d. 390 BC)</td>
+<td>Existence of a "Central Fire" at the center of the Universe.</td>
+<td>At the center of the Universe is a central fire, around which the Earth, Sun, Moon and&nbsp;<a title="Planet" href="https://en.wikipedia.org/wiki/Planet">planets</a>&nbsp;revolve uniformly. The Sun revolves around the central fire once a year, the stars are immobile. The earth in its motion maintains the same hidden face towards the central fire, hence it is never seen. First known non-geocentric model of the Universe.</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="De Mundo" href="https://en.wikipedia.org/wiki/De_Mundo">De Mundo</a></td>
+<td><a title="Pseudo-Aristotle" href="https://en.wikipedia.org/wiki/Pseudo-Aristotle">Pseudo-Aristotle</a>&nbsp;(d. 250 BC or between 350 and 200 BC)</td>
+<td>The Universe then is a system made up of heaven and earth and the elements which are contained in them.</td>
+<td>There are "five elements, situated in spheres in five regions, the less being in each case surrounded by the greater &ndash; namely, earth surrounded by water, water by air, air by fire, and fire by ether &ndash; make up the whole Universe."</td>
+</tr>
+<tr>
+<td><a title="Stoicism" href="https://en.wikipedia.org/wiki/Stoicism#Physics_and_cosmology">Stoic universe</a></td>
+<td><a class="mw-redirect" title="Stoics" href="https://en.wikipedia.org/wiki/Stoics">Stoics</a>&nbsp;(300&nbsp;BC&nbsp;&ndash;&nbsp;200&nbsp;AD)</td>
+<td><a class="mw-redirect" title="Island universe" href="https://en.wikipedia.org/wiki/Island_universe">Island universe</a></td>
+<td>The&nbsp;<a title="Cosmos" href="https://en.wikipedia.org/wiki/Cosmos">cosmos</a>&nbsp;is finite and surrounded by an infinite void. It is in a state of flux, and pulsates in size and undergoes periodic upheavals and conflagrations.</td>
+</tr>
+<tr>
+<td><a title="On the Heavens" href="https://en.wikipedia.org/wiki/On_the_Heavens">Aristotelian universe</a></td>
+<td><a title="Aristotle" href="https://en.wikipedia.org/wiki/Aristotle">Aristotle</a>&nbsp;(384&ndash;322&nbsp;BC)</td>
+<td><a class="mw-redirect" title="Geocentric" href="https://en.wikipedia.org/wiki/Geocentric">Geocentric</a>, static, steady state, finite extent, infinite time</td>
+<td>Spherical earth is surrounded by concentric&nbsp;<a title="Celestial spheres" href="https://en.wikipedia.org/wiki/Celestial_spheres">celestial spheres</a>. Universe exists unchanged throughout eternity. Contains a fifth element, called&nbsp;<a title="Aether (classical element)" href="https://en.wikipedia.org/wiki/Aether_(classical_element)">aether</a>, that was added to the four&nbsp;<a title="Classical element" href="https://en.wikipedia.org/wiki/Classical_element">classical elements</a>.</td>
+</tr>
+<tr>
+<td>Aristarchean universe</td>
+<td><a title="Aristarchus of Samos" href="https://en.wikipedia.org/wiki/Aristarchus_of_Samos">Aristarchus</a>&nbsp;(circa&nbsp;280&nbsp;BC)</td>
+<td><a class="mw-redirect" title="Heliocentric" href="https://en.wikipedia.org/wiki/Heliocentric">Heliocentric</a></td>
+<td>Earth rotates daily on its axis and revolves annually about the sun in a circular orbit. Sphere of fixed stars is centered about the sun.</td>
+</tr>
+<tr>
+<td><a title="Geocentric model" href="https://en.wikipedia.org/wiki/Geocentric_model">Ptolemaic model</a></td>
+<td><a title="Ptolemy" href="https://en.wikipedia.org/wiki/Ptolemy">Ptolemy</a>&nbsp;(2nd century&nbsp;AD)</td>
+<td>Geocentric (based on Aristotelian universe)</td>
+<td>Universe orbits around a stationary Earth. Planets move in circular&nbsp;<a class="mw-redirect" title="Epicycles" href="https://en.wikipedia.org/wiki/Epicycles">epicycles</a>, each having a center that moved in a larger circular orbit (called an eccentric or a deferent) around a center-point near Earth. The use of&nbsp;<a title="Equant" href="https://en.wikipedia.org/wiki/Equant">equants</a>&nbsp;added another level of complexity and allowed astronomers to predict the positions of the planets. The most successful universe model of all time, using the criterion of longevity.&nbsp;<a title="Almagest" href="https://en.wikipedia.org/wiki/Almagest">Almagest</a>&nbsp;(the Great System).</td>
+</tr>
+<tr>
+<td>Aryabhatan model</td>
+<td><a title="Aryabhata" href="https://en.wikipedia.org/wiki/Aryabhata">Aryabhata</a>&nbsp;(499)</td>
+<td>Geocentric or Heliocentric</td>
+<td>The&nbsp;<a title="Earth's rotation" href="https://en.wikipedia.org/wiki/Earth%27s_rotation">Earth rotates</a>&nbsp;and the planets move in&nbsp;<a class="mw-redirect" title="Elliptical orbit" href="https://en.wikipedia.org/wiki/Elliptical_orbit">elliptical orbits</a>&nbsp;around either the Earth or Sun; uncertain whether the model is geocentric or heliocentric due to planetary orbits given with respect to both the Earth and Sun.</td>
+</tr>
+<tr>
+<td>Medieval universe</td>
+<td><a title="Medieval philosophy" href="https://en.wikipedia.org/wiki/Medieval_philosophy">Medieval philosophers</a>&nbsp;(500&ndash;1200)</td>
+<td>Finite in time</td>
+<td>A universe that is finite in time and has a beginning is proposed by the&nbsp;<a title="Christian philosophy" href="https://en.wikipedia.org/wiki/Christian_philosophy">Christian philosopher</a>&nbsp;<a title="John Philoponus" href="https://en.wikipedia.org/wiki/John_Philoponus">John Philoponus</a>, who argues against the ancient Greek notion of an infinite past. Logical arguments supporting a finite universe are developed by the&nbsp;<a title="Early Islamic philosophy" href="https://en.wikipedia.org/wiki/Early_Islamic_philosophy">early Muslim philosopher</a>&nbsp;<a title="Al-Kindi" href="https://en.wikipedia.org/wiki/Al-Kindi">Alkindus</a>, the&nbsp;<a title="Jewish philosophy" href="https://en.wikipedia.org/wiki/Jewish_philosophy">Jewish philosopher</a>&nbsp;<a title="Saadia Gaon" href="https://en.wikipedia.org/wiki/Saadia_Gaon">Saadia Gaon</a>, and the&nbsp;<a title="Kalam" href="https://en.wikipedia.org/wiki/Kalam">Muslim theologian</a>&nbsp;<a title="Al-Ghazali" href="https://en.wikipedia.org/wiki/Al-Ghazali">Algazel</a>.</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Islamic cosmology" href="https://en.wikipedia.org/wiki/Islamic_cosmology#Multiversal_cosmology">Multiversal cosmology</a></td>
+<td><a title="Fakhr al-Din al-Razi" href="https://en.wikipedia.org/wiki/Fakhr_al-Din_al-Razi">Fakhr al-Din al-Razi</a>&nbsp;(1149&ndash;1209)</td>
+<td><a title="Multiverse" href="https://en.wikipedia.org/wiki/Multiverse">Multiverse</a>, multiple worlds and universes</td>
+<td>There exists an infinite outer space beyond the known world, and God has the power to fill the vacuum with an infinite number of universes.</td>
+</tr>
+<tr>
+<td>Maragha models</td>
+<td><a title="Maragheh observatory" href="https://en.wikipedia.org/wiki/Maragheh_observatory">Maragha school</a>&nbsp;(1259&ndash;1528)</td>
+<td>Geocentric</td>
+<td>Various modifications to Ptolemaic model and Aristotelian universe, including rejection of&nbsp;<a title="Equant" href="https://en.wikipedia.org/wiki/Equant">equant</a>&nbsp;and&nbsp;<a title="Deferent and epicycle" href="https://en.wikipedia.org/wiki/Deferent_and_epicycle">eccentrics</a>&nbsp;at&nbsp;<a title="Maragheh observatory" href="https://en.wikipedia.org/wiki/Maragheh_observatory">Maragheh observatory</a>, and introduction of&nbsp;<a class="mw-redirect" title="Tusi-couple" href="https://en.wikipedia.org/wiki/Tusi-couple">Tusi-couple</a>&nbsp;by&nbsp;<a title="Nasir al-Din al-Tusi" href="https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi">Al-Tusi</a>. Alternative models later proposed, including the first accurate&nbsp;<a title="Moon" href="https://en.wikipedia.org/wiki/Moon">lunar</a>&nbsp;model by&nbsp;<a title="Ibn al-Shatir" href="https://en.wikipedia.org/wiki/Ibn_al-Shatir">Ibn al-Shatir</a>, a model rejecting stationary Earth in favour of&nbsp;<a title="Earth's rotation" href="https://en.wikipedia.org/wiki/Earth%27s_rotation">Earth's rotation</a>&nbsp;by&nbsp;<a class="mw-redirect" title="Ali Kuş&ccedil;u" href="https://en.wikipedia.org/wiki/Ali_Ku%C5%9F%C3%A7u">Ali Kuş&ccedil;u</a>, and planetary model incorporating "circular&nbsp;<a title="Inertia" href="https://en.wikipedia.org/wiki/Inertia">inertia</a>" by&nbsp;<a title="Al-Birjandi" href="https://en.wikipedia.org/wiki/Al-Birjandi">Al-Birjandi</a>.</td>
+</tr>
+<tr>
+<td>Nilakanthan model</td>
+<td><a title="Nilakantha Somayaji" href="https://en.wikipedia.org/wiki/Nilakantha_Somayaji">Nilakantha Somayaji</a>&nbsp;(1444&ndash;1544)</td>
+<td>Geocentric and heliocentric</td>
+<td>A universe in which the planets orbit the Sun, which orbits the Earth; similar to the later&nbsp;<a title="Tychonic system" href="https://en.wikipedia.org/wiki/Tychonic_system">Tychonic system</a></td>
+</tr>
+<tr>
+<td><a title="Copernican heliocentrism" href="https://en.wikipedia.org/wiki/Copernican_heliocentrism">Copernican universe</a></td>
+<td><a title="Nicolaus Copernicus" href="https://en.wikipedia.org/wiki/Nicolaus_Copernicus">Nicolaus Copernicus</a>&nbsp;(1473&ndash;1543)</td>
+<td>Heliocentric with circular planetary orbits</td>
+<td>First described in&nbsp;<em><a title="De revolutionibus orbium coelestium" href="https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium">De revolutionibus orbium coelestium</a></em>.</td>
+</tr>
+<tr>
+<td><a title="Tychonic system" href="https://en.wikipedia.org/wiki/Tychonic_system">Tychonic system</a></td>
+<td><a title="Tycho Brahe" href="https://en.wikipedia.org/wiki/Tycho_Brahe">Tycho Brahe</a>&nbsp;(1546&ndash;1601)</td>
+<td>Geocentric and Heliocentric</td>
+<td>A universe in which the planets orbit the Sun and the Sun orbits the Earth, similar to the earlier&nbsp;<a title="Nilakantha Somayaji" href="https://en.wikipedia.org/wiki/Nilakantha_Somayaji">Nilakanthan model</a>.</td>
+</tr>
+<tr>
+<td><a title="Giordano Bruno" href="https://en.wikipedia.org/wiki/Giordano_Bruno#Bruno.27s_cosmology">Bruno's cosmology</a></td>
+<td><a title="Giordano Bruno" href="https://en.wikipedia.org/wiki/Giordano_Bruno">Giordano Bruno</a>&nbsp;(1548&ndash;1600)</td>
+<td>Infinite extent, infinite time, homogeneous, isotropic, non-hierarchical</td>
+<td>Rejects the idea of a hierarchical universe. Earth and Sun have no special properties in comparison with the other heavenly bodies. The void between the stars is filled with&nbsp;<a title="Aether (classical element)" href="https://en.wikipedia.org/wiki/Aether_(classical_element)">aether</a>, and matter is composed of the same&nbsp;<a title="Classical element" href="https://en.wikipedia.org/wiki/Classical_element">four elements</a>&nbsp;(water, earth, fire, and air), and is atomistic, animistic and intelligent.</td>
+</tr>
+<tr>
+<td>Keplerian</td>
+<td><a title="Johannes Kepler" href="https://en.wikipedia.org/wiki/Johannes_Kepler">Johannes Kepler</a>&nbsp;(1571&ndash;1630)</td>
+<td>Heliocentric with elliptical planetary orbits</td>
+<td>Kepler's discoveries, marrying mathematics and physics, provided the foundation for our present conception of the Solar system, but distant stars were still seen as objects in a thin, fixed celestial sphere.</td>
+</tr>
+<tr>
+<td>Static Newtonian</td>
+<td><a title="Isaac Newton" href="https://en.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a>&nbsp;(1642&ndash;1727)</td>
+<td><a title="Static universe" href="https://en.wikipedia.org/wiki/Static_universe">Static</a>&nbsp;(evolving), steady state, infinite</td>
+<td>Every particle in the universe attracts every other particle. Matter on the large scale is uniformly distributed. Gravitationally balanced but unstable.</td>
+</tr>
+<tr>
+<td><a title="Mechanical explanations of gravitation" href="https://en.wikipedia.org/wiki/Mechanical_explanations_of_gravitation#Vortex">Cartesian Vortex</a>&nbsp;universe</td>
+<td><a title="Ren&eacute; Descartes" href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes">Ren&eacute; Descartes</a>, 17th century</td>
+<td>Static (evolving), steady state,&nbsp;<a title="Infinity" href="https://en.wikipedia.org/wiki/Infinity">infinite</a></td>
+<td>System of huge swirling whirlpools of aethereal or fine matter produces what we would call gravitational effects. But his vacuum was not empty; all space was filled with matter.</td>
+</tr>
+<tr>
+<td>Hierarchical universe</td>
+<td><a title="Immanuel Kant" href="https://en.wikipedia.org/wiki/Immanuel_Kant">Immanuel Kant</a>,&nbsp;<a class="mw-redirect" title="Johann Lambert" href="https://en.wikipedia.org/wiki/Johann_Lambert">Johann Lambert</a>, 18th century</td>
+<td>Static (evolving), steady state, infinite</td>
+<td>Matter is clustered on ever larger scales of hierarchy. Matter is endlessly recycled.</td>
+</tr>
+<tr>
+<td><a title="Static universe" href="https://en.wikipedia.org/wiki/Static_universe">Einstein Universe with a cosmological constant</a></td>
+<td><a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>, 1917</td>
+<td>Static (nominally). Bounded (finite)</td>
+<td>"Matter without motion". Contains uniformly distributed matter. Uniformly curved spherical space; based on&nbsp;<a title="Riemann sphere" href="https://en.wikipedia.org/wiki/Riemann_sphere">Riemann's hypersphere</a>. Curvature is set equal to &Lambda;. In effect &Lambda; is equivalent to a repulsive force which counteracts gravity. Unstable.</td>
+</tr>
+<tr>
+<td><a title="De Sitter universe" href="https://en.wikipedia.org/wiki/De_Sitter_universe">De Sitter universe</a></td>
+<td><a title="Willem de Sitter" href="https://en.wikipedia.org/wiki/Willem_de_Sitter">Willem de Sitter</a>, 1917</td>
+<td><a class="mw-redirect" title="Metric expansion of space" href="https://en.wikipedia.org/wiki/Metric_expansion_of_space">Expanding</a>&nbsp;<a title="Shape of the universe" href="https://en.wikipedia.org/wiki/Shape_of_the_universe">flat space</a>.
+<p>Steady state. &Lambda; &gt; 0</p>
+</td>
+<td>"Motion without matter." Only apparently static. Based on Einstein's&nbsp;<a title="General relativity" href="https://en.wikipedia.org/wiki/General_relativity">general relativity</a>. Space expands with constant&nbsp;<a class="mw-redirect" title="Accelerating universe" href="https://en.wikipedia.org/wiki/Accelerating_universe">acceleration</a>.&nbsp;<a class="mw-redirect" title="Scale factor (universe)" href="https://en.wikipedia.org/wiki/Scale_factor_(universe)">Scale factor</a>&nbsp;increases exponentially (constant&nbsp;<a class="mw-redirect" title="Cosmic inflation" href="https://en.wikipedia.org/wiki/Cosmic_inflation">inflation</a>).</td>
+</tr>
+<tr>
+<td>MacMillan universe</td>
+<td><a title="William Duncan MacMillan" href="https://en.wikipedia.org/wiki/William_Duncan_MacMillan">William Duncan MacMillan</a>&nbsp;1920s</td>
+<td>Static and steady state</td>
+<td>New matter is created from&nbsp;<a title="Radiation" href="https://en.wikipedia.org/wiki/Radiation">radiation</a>; starlight perpetually recycled into new matter particles.</td>
+</tr>
+<tr>
+<td><a title="Friedmann equations" href="https://en.wikipedia.org/wiki/Friedmann_equations">Friedmann universe</a>, spherical space</td>
+<td><a title="Alexander Friedmann" href="https://en.wikipedia.org/wiki/Alexander_Friedmann">Alexander Friedmann</a>&nbsp;1922</td>
+<td>Spherical expanding space.
+<p><em>k</em>&nbsp;= +1&nbsp;; no &Lambda;</p>
+</td>
+<td>Positive curvature. Curvature constant&nbsp;<em>k</em>&nbsp;= +1
+<p><a class="mw-redirect" title="Metric expansion of space" href="https://en.wikipedia.org/wiki/Metric_expansion_of_space">Expands</a>&nbsp;then&nbsp;<a title="Big Crunch" href="https://en.wikipedia.org/wiki/Big_Crunch">recollapses</a>.&nbsp;<a title="Shape of the universe" href="https://en.wikipedia.org/wiki/Shape_of_the_universe">Spatially closed</a>&nbsp;(finite).</p>
+</td>
+</tr>
+<tr>
+<td><a title="Friedmann equations" href="https://en.wikipedia.org/wiki/Friedmann_equations">Friedmann universe</a>, hyperbolic space</td>
+<td><a title="Alexander Friedmann" href="https://en.wikipedia.org/wiki/Alexander_Friedmann">Alexander Friedmann</a>, 1924</td>
+<td><a title="Hyperbolic space" href="https://en.wikipedia.org/wiki/Hyperbolic_space">Hyperbolic</a>&nbsp;expanding space.
+<p><em>k</em>&nbsp;= &minus;1&nbsp;; no &Lambda;</p>
+</td>
+<td><a title="Shape of the universe" href="https://en.wikipedia.org/wiki/Shape_of_the_universe">Negative curvature</a>. Said to be infinite (but ambiguous). Unbounded. Expands forever.</td>
+</tr>
+<tr>
+<td><a title="Dirac large numbers hypothesis" href="https://en.wikipedia.org/wiki/Dirac_large_numbers_hypothesis">Dirac large numbers hypothesis</a></td>
+<td><a title="Paul Dirac" href="https://en.wikipedia.org/wiki/Paul_Dirac">Paul Dirac</a>&nbsp;1930s</td>
+<td>Expanding</td>
+<td>Demands a large variation in&nbsp;<em>G</em>, which decreases with time. Gravity weakens as universe evolves.</td>
+</tr>
+<tr>
+<td>Friedmann zero-curvature</td>
+<td>Einstein and De Sitter, 1932</td>
+<td>Expanding flat space
+<p><em>k</em>&nbsp;= 0&nbsp;; &Lambda; = 0 Critical density</p>
+</td>
+<td>Curvature constant&nbsp;<em>k</em>&nbsp;= 0. Said to be infinite (but ambiguous). "Unbounded cosmos of limited extent". Expands forever. "Simplest" of all known universes. Named after but not considered by Friedmann. Has a&nbsp;<a title="Deceleration parameter" href="https://en.wikipedia.org/wiki/Deceleration_parameter">deceleration term</a>&nbsp;<em>q</em>&nbsp;= 1/2, which means that its expansion rate slows down.</td>
+</tr>
+<tr>
+<td>The original&nbsp;<a title="Big Bang" href="https://en.wikipedia.org/wiki/Big_Bang">Big Bang</a>&nbsp;(Friedmann-Lema&icirc;tre)</td>
+<td><a title="Georges Lema&icirc;tre" href="https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre">Georges Lema&icirc;tre</a>&nbsp;1927&ndash;29</td>
+<td>Expansion
+<p>&Lambda; &gt; 0&nbsp;; &Lambda; &gt; |Gravity|</p>
+</td>
+<td>&Lambda; is positive and has a magnitude greater than gravity. Universe has initial high-density state ("primeval atom"). Followed by a two-stage expansion. &Lambda; is used to destabilize the universe. (Lema&icirc;tre is considered the father of the Big Bang model.)</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Oscillating universe" href="https://en.wikipedia.org/wiki/Oscillating_universe">Oscillating universe</a>&nbsp;(Friedmann-Einstein)</td>
+<td>Favored by&nbsp;<a title="Alexander Friedmann" href="https://en.wikipedia.org/wiki/Alexander_Friedmann">Friedmann</a>, 1920s</td>
+<td>Expanding and contracting in cycles</td>
+<td>Time is endless and beginningless; thus avoids the beginning-of-time paradox. Perpetual cycles of Big Bang followed by Big Crunch. (Einstein's first choice after he rejected his 1917 model.)</td>
+</tr>
+<tr>
+<td>Eddington universe</td>
+<td><a title="Arthur Eddington" href="https://en.wikipedia.org/wiki/Arthur_Eddington">Arthur Eddington</a>&nbsp;1930</td>
+<td>First static then expands</td>
+<td>Static Einstein 1917 universe with its instability disturbed into expansion mode; with relentless matter dilution becomes a De Sitter universe. &Lambda; dominates gravity.</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Milne universe" href="https://en.wikipedia.org/wiki/Milne_universe">Milne universe</a>&nbsp;of kinematic relativity</td>
+<td><a title="Edward Arthur Milne" href="https://en.wikipedia.org/wiki/Edward_Arthur_Milne">Edward Milne</a>, 1933, 1935;
+<p><a class="mw-redirect" title="William H. McCrea" href="https://en.wikipedia.org/wiki/William_H._McCrea">William H. McCrea</a>, 1930s</p>
+</td>
+<td>Kinematic expansion without space expansion</td>
+<td>Rejects general relativity and the expanding space paradigm. Gravity not included as initial assumption. Obeys cosmological principle and&nbsp;<a title="Special relativity" href="https://en.wikipedia.org/wiki/Special_relativity">special relativity</a>; consists of a finite spherical cloud of particles (or galaxies) that expands within an infinite and otherwise empty flat space. It has a center and a cosmic edge (surface of the particle cloud) that expands at light speed. Explanation of gravity was elaborate and unconvincing.</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Friedmann&ndash;Lema&icirc;tre&ndash;Robertson&ndash;Walker" href="https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker">Friedmann&ndash;Lema&icirc;tre&ndash;Robertson&ndash;Walker</a>&nbsp;class of models</td>
+<td><a class="mw-redirect" title="Howard Percy Robertson" href="https://en.wikipedia.org/wiki/Howard_Percy_Robertson">Howard Robertson</a>,&nbsp;<a title="Arthur Geoffrey Walker" href="https://en.wikipedia.org/wiki/Arthur_Geoffrey_Walker">Arthur Walker</a>, 1935</td>
+<td>Uniformly expanding</td>
+<td>Class of universes that are homogeneous and isotropic. Spacetime separates into uniformly curved space and cosmic time common to all co-moving observers. The formulation system is now known as the FLRW or Robertson&ndash;Walker metrics of cosmic time and curved space.</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Steady state theory" href="https://en.wikipedia.org/wiki/Steady_state_theory">Steady-state</a></td>
+<td><a title="Hermann Bondi" href="https://en.wikipedia.org/wiki/Hermann_Bondi">Hermann Bondi</a>,&nbsp;<a title="Thomas Gold" href="https://en.wikipedia.org/wiki/Thomas_Gold">Thomas Gold</a>, 1948</td>
+<td>Expanding, steady state, infinite</td>
+<td>Matter creation rate maintains constant density. Continuous creation out of nothing from nowhere. Exponential expansion. Deceleration term&nbsp;<em>q</em>&nbsp;= &minus;1.</td>
+</tr>
+<tr>
+<td>Steady-state</td>
+<td><a title="Fred Hoyle" href="https://en.wikipedia.org/wiki/Fred_Hoyle">Fred Hoyle</a>&nbsp;1948</td>
+<td>Expanding, steady state; but unstable</td>
+<td>Matter creation rate maintains constant density. But since matter creation rate must be exactly balanced with the space expansion rate the system is unstable.</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Ambiplasma" href="https://en.wikipedia.org/wiki/Ambiplasma">Ambiplasma</a></td>
+<td><a title="Hannes Alfv&eacute;n" href="https://en.wikipedia.org/wiki/Hannes_Alfv%C3%A9n">Hannes Alfv&eacute;n</a>&nbsp;1965&nbsp;<a title="Oskar Klein" href="https://en.wikipedia.org/wiki/Oskar_Klein">Oskar Klein</a></td>
+<td>Cellular universe, expanding by means of matter&ndash;antimatter annihilation</td>
+<td>Based on the concept of&nbsp;<a title="Plasma cosmology" href="https://en.wikipedia.org/wiki/Plasma_cosmology">plasma cosmology</a>. The universe is viewed as "meta-galaxies" divided by&nbsp;<a class="mw-redirect" title="Double layer (plasma)" href="https://en.wikipedia.org/wiki/Double_layer_(plasma)">double layers</a>&nbsp;and thus a bubble-like nature. Other universes are formed from other bubbles. Ongoing cosmic matter-<a title="Antimatter" href="https://en.wikipedia.org/wiki/Antimatter">antimatter</a>&nbsp;<a title="Annihilation" href="https://en.wikipedia.org/wiki/Annihilation">annihilations</a>&nbsp;keep the bubbles separated and moving apart preventing them from interacting.</td>
+</tr>
+<tr>
+<td><a title="Brans&ndash;Dicke theory" href="https://en.wikipedia.org/wiki/Brans%E2%80%93Dicke_theory">Brans&ndash;Dicke theory</a></td>
+<td><a title="Carl H. Brans" href="https://en.wikipedia.org/wiki/Carl_H._Brans">Carl H. Brans</a>,&nbsp;<a title="Robert H. Dicke" href="https://en.wikipedia.org/wiki/Robert_H._Dicke">Robert H. Dicke</a></td>
+<td>Expanding</td>
+<td>Based on&nbsp;<a title="Mach's principle" href="https://en.wikipedia.org/wiki/Mach%27s_principle">Mach's principle</a>.&nbsp;<em>G</em>&nbsp;varies with time as universe expands. "But nobody is quite sure what Mach's principle actually means."<sup class="noprint Inline-Template Template-Fact">[<em><a title="Wikipedia:Citation needed" href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"><span title="This claim needs references to reliable sources. (January 2010)">citation needed</span></a></em>]</sup></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Cosmic inflation" href="https://en.wikipedia.org/wiki/Cosmic_inflation">Cosmic inflation</a></td>
+<td><a title="Alan Guth" href="https://en.wikipedia.org/wiki/Alan_Guth">Alan Guth</a>&nbsp;1980</td>
+<td><a title="Big Bang" href="https://en.wikipedia.org/wiki/Big_Bang">Big Bang</a>&nbsp;modified to solve&nbsp;<a title="Horizon problem" href="https://en.wikipedia.org/wiki/Horizon_problem">horizon</a>&nbsp;and&nbsp;<a title="Flatness problem" href="https://en.wikipedia.org/wiki/Flatness_problem">flatness problems</a></td>
+<td>Based on the concept of hot inflation. The universe is viewed as a multiple quantum flux &ndash; hence its bubble-like nature. Other universes are formed from other bubbles. Ongoing cosmic expansion kept the bubbles separated and moving apart.</td>
+</tr>
+<tr>
+<td><a class="mw-redirect" title="Chaotic inflation theory" href="https://en.wikipedia.org/wiki/Chaotic_inflation_theory">Eternal inflation</a>&nbsp;(a multiple universe model)</td>
+<td><a title="Andrei Linde" href="https://en.wikipedia.org/wiki/Andrei_Linde">Andre&iuml; Linde</a>, 1983</td>
+<td>Big Bang with&nbsp;<a class="mw-redirect" title="Cosmic inflation" href="https://en.wikipedia.org/wiki/Cosmic_inflation">cosmic inflation</a></td>
+<td><a title="Multiverse" href="https://en.wikipedia.org/wiki/Multiverse">Multiverse</a>&nbsp;based on the concept of cold inflation, in which inflationary events occur at random each with independent initial conditions; some expand into bubble universes supposedly like our entire cosmos. Bubbles nucleate in a&nbsp;<a title="Quantum foam" href="https://en.wikipedia.org/wiki/Quantum_foam">spacetime foam</a>.</td>
+</tr>
+<tr>
+<td><a title="Cyclic model" href="https://en.wikipedia.org/wiki/Cyclic_model">Cyclic model</a></td>
+<td><a title="Paul Steinhardt" href="https://en.wikipedia.org/wiki/Paul_Steinhardt">Paul Steinhardt</a>;&nbsp;<a title="Neil Turok" href="https://en.wikipedia.org/wiki/Neil_Turok">Neil Turok</a>&nbsp;2002</td>
+<td>Expanding and contracting in cycles;&nbsp;<a title="M-theory" href="https://en.wikipedia.org/wiki/M-theory">M-theory</a>.</td>
+<td>Two parallel&nbsp;<a title="Orbifold" href="https://en.wikipedia.org/wiki/Orbifold">orbifold</a>&nbsp;planes or&nbsp;<a class="mw-redirect" title="Membrane (M-theory)" href="https://en.wikipedia.org/wiki/Membrane_(M-theory)">M-branes</a>&nbsp;collide periodically in a higher-dimensional space. With&nbsp;<a title="Quintessence (physics)" href="https://en.wikipedia.org/wiki/Quintessence_(physics)">quintessence</a>&nbsp;or&nbsp;<a title="Dark energy" href="https://en.wikipedia.org/wiki/Dark_energy">dark energy</a>.</td>
+</tr>
+<tr>
+<td><a title="Cyclic model" href="https://en.wikipedia.org/wiki/Cyclic_model">Cyclic model</a></td>
+<td>Lauris Baum;&nbsp;<a title="Paul Frampton" href="https://en.wikipedia.org/wiki/Paul_Frampton">Paul Frampton</a>&nbsp;2007</td>
+<td>Solution of&nbsp;<a class="mw-redirect" title="Richard Tolman" href="https://en.wikipedia.org/wiki/Richard_Tolman">Tolman</a>'s entropy problem</td>
+<td><a title="" href="https://en.wikipedia.org/wiki/Phantom_energy">Phantom dark energy</a>&nbsp;fragments universe into large number of disconnected patches. Our patch contracts containing only dark energy with zero&nbsp;<a title="Entropy" href="https://en.wikipedia.org/wiki/Entropy">entropy</a>.</td>
+</tr>
+</tbody>
+</table>
+</br>
