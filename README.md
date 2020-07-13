@@ -1131,6 +1131,7 @@ THE BOOK</a></li>
 </table>
 </br>
 <h2><span id="Historical_cosmologies" class="mw-headline">Historical cosmologies</span></h2>
+<h2><span id="Historical_cosmologies" class="mw-headline">Historical cosmologies</span></h2>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -1391,7 +1392,7 @@ THE BOOK</a></li>
 <td><a title="Brans&ndash;Dicke theory" href="https://en.wikipedia.org/wiki/Brans%E2%80%93Dicke_theory">Brans&ndash;Dicke theory</a></td>
 <td><a title="Carl H. Brans" href="https://en.wikipedia.org/wiki/Carl_H._Brans">Carl H. Brans</a>,&nbsp;<a title="Robert H. Dicke" href="https://en.wikipedia.org/wiki/Robert_H._Dicke">Robert H. Dicke</a></td>
 <td>Expanding</td>
-<td>Based on&nbsp;<a title="Mach's principle" href="https://en.wikipedia.org/wiki/Mach%27s_principle">Mach's principle</a>.&nbsp;<em>G</em>&nbsp;varies with time as universe expands. "But nobody is quite sure what Mach's principle actually means."<sup class="noprint Inline-Template Template-Fact">[<em><a title="Wikipedia:Citation needed" href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"><span title="This claim needs references to reliable sources. (January 2010)">citation needed</span></a></em>]</sup></td>
+<td>Based on&nbsp;<a title="Mach's principle" href="https://en.wikipedia.org/wiki/Mach%27s_principle">Mach's principle</a>.&nbsp;<em>G</em>&nbsp;varies with time as universe expands. "But nobody is quite sure what Mach's principle actually means."</td>
 </tr>
 <tr>
 <td><a class="mw-redirect" title="Cosmic inflation" href="https://en.wikipedia.org/wiki/Cosmic_inflation">Cosmic inflation</a></td>
