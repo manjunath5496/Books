@@ -1131,7 +1131,6 @@ THE BOOK</a></li>
 </table>
 </br>
 <h2><span id="Historical_cosmologies" class="mw-headline">Historical cosmologies</span></h2>
-<h2><span id="Historical_cosmologies" class="mw-headline">Historical cosmologies</span></h2>
 <table class="wikitable">
 <tbody>
 <tr>
