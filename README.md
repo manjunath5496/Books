@@ -1,3 +1,6 @@
+<img src="study_book.jpg" alt="Smiley face">
+
+
 <ul>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Geometry-Books/blob/master/README.md" style="text-decoration:none;">Geometry Books </a></li>
