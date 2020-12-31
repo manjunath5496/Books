@@ -1,4 +1,4 @@
-<img src="study_book.jpg" alt="Smiley face">
+<img src="study_book.png" alt="Smiley face">
 
 
 <ul>
