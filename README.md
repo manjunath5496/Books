@@ -1,4 +1,4 @@
-<img src="study_book.png" alt="Smiley face">
+ <img src="study_book.png" width="478" height="250" alt="Smiley face">
 
 
 <ul>
